@@ -2,26 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beta.kurzius.net/docs/ap-csp/</loc>
-  </url><url>
-    <loc>https://beta.kurzius.net/docs/intro-to-programming/</loc>
-  </url><url>
-    <loc>https://beta.kurzius.net/docs/intro-to-web-dev/</loc>
-  </url><url>
-    <loc>https://beta.kurzius.net/docs/tech-apps-1/</loc>
-  </url><url>
-    <loc>https://beta.kurzius.net/docs/yearbook-club/</loc>
-  </url><url>
-    <loc>https://beta.kurzius.net/docs/yearbook-publishing/</loc>
-  </url><url>
-    <loc>https://beta.kurzius.net/docs/</loc>
-    <lastmod>2021-05-05T10:20:37-04:00</lastmod>
-  </url><url>
-    <loc>https://beta.kurzius.net/docs/menu/</loc>
-    <lastmod>2021-05-05T10:20:37-04:00</lastmod>
+    <loc>https://beta.kurzius.net/ap-csp/</loc>
   </url><url>
     <loc>https://beta.kurzius.net/</loc>
-    <lastmod>2021-05-05T08:41:03-04:00</lastmod>
+  </url><url>
+    <loc>https://beta.kurzius.net/intro-to-programming/</loc>
+  </url><url>
+    <loc>https://beta.kurzius.net/intro-to-web-dev/</loc>
+  </url><url>
+    <loc>https://beta.kurzius.net/tech-apps-1/</loc>
+  </url><url>
+    <loc>https://beta.kurzius.net/yearbook-club/</loc>
+  </url><url>
+    <loc>https://beta.kurzius.net/yearbook-publishing/</loc>
+  </url><url>
+    <loc>https://beta.kurzius.net/menu/</loc>
+    <lastmod>2021-05-05T10:20:37-04:00</lastmod>
   </url><url>
     <loc>https://beta.kurzius.net/categories/</loc>
   </url><url>

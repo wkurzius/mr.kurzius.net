@@ -1,7 +1,12 @@
 ---
 title: "Home"
-date: 2021-05-05T08:41:03-04:00
-draft: flase
+weight: 1
+# bookFlatSection: false
+# bookToc: false
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
 ---
 
 # Welcome
@@ -14,15 +19,15 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 
 | Per. |                     Class                     | Room |
 |:----:|:----------------------------------------------|:----:|
-| 1    | AP Computer Science Principles                | –    |
-| 2    | –                                             | –    |
-| 3    | Technology – Robotics (B days)                | –    |
-| 4    | Intro to Computer Programming/Web Development | –    |
-| 5    | Technical Applications & Design I             | –    |
-| 6    | Intro to Computer Programming/Web Development | –    |
-| 7    | –                                             | –    |
-| 8    | –                                             | –    |
-| 9    | Yearbook Publishing                           | –    |
+| 1    | AP Computer Science Principles                | 47    |
+| 2    | –                                             | –     |
+| 3    | Technology – Robotics (B days)                | 47    |
+| 4    | Intro to Computer Programming/Web Development | 47    |
+| 5    | Technical Applications & Design I             | 47    |
+| 6    | Intro to Computer Programming/Web Development | 47    |
+| 7    | –                                             | –     |
+| 8    | –                                             | –     |
+| 9    | Yearbook Publishing                           | 47    |
 
 ## About
 

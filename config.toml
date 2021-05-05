@@ -7,5 +7,7 @@ theme = "book"
 #unsafe= true
 
 [params]
-BookMenuBundle = '/docs/menu'
+BookMenuBundle = '/menu'
 BookTheme = 'dark'
+BookSection = '*'
+bookToc = false
