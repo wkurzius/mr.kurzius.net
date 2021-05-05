@@ -1,0 +1,15 @@
+[submodule "starter-academic"]
+	path = starter-academic
+	url = https://github.com/wowchemy/starter-academic.git
+[submodule ".\\themes\\academic"]
+	path = .\\themes\\academic
+	url = https://github.com/wowchemy/starter-academic.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "hugo-book"]
+	path = hugo-book
+	url = https://github.com/alex-shpak/hugo-book.git
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book.git

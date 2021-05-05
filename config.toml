@@ -1,0 +1,11 @@
+baseURL = "https://beta.kurzius.net/"
+languageCode = "en-us"
+title = "Mr. Kurzius"
+theme = "book"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+BookMenuBundle = '/docs/menu'
+BookTheme = 'dark'
