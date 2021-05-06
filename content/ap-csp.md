@@ -11,11 +11,13 @@ weight: 1
 
 # AP Computer Science Principles
 
+{{< div summer-work >}}
+
 ## Summer Work
 
-Although we will follow the Edhesive program come fall, students that want to get a jump start on the material should check out the resources and exercises on Khan Academy. This is optional summer work but students should be prepared for a fast-paced beginning of the year. With that in mind, I recommend you work through at least the Algorithms unit.
+Sudents that want a jump start on the material should check out the resources and exercises on [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles). I recommend completeing at least the Algorithms unit.
 
-Once I have an official roster and the Edhesive course is active, students will receive registration information and starter activities to help them get familiar with the course format.
+{{< /div >}}
 
 ## Course Description
 

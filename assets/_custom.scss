@@ -33,5 +33,8 @@ main {
 	outline: none;
 }
 
-table thead * {
+.summer-work {
+	font-size: .9em;
+	border-left: 0.25rem solid var(--gray-200);
+	padding-left: 0.5rem;
 }
