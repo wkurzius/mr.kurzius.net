@@ -31,7 +31,9 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 
 ## About
 
-{{<figure src="images/avatar.jpg" class="avatar">}}
+{{<div avatar>}}
+![Mr. Kurzius](images/avatar.jpg)
+{{</div>}}
 
 I’m in my sixteenth year of teaching, all in Manville. This year my courses include AP Computer Science Principles, Intro to Programming, Into to Web Development, Yearbook Publishing, and Technology Applications & Design I. I’m also the Yearbook Advisor and I run the district’s website and digital sign. I have a degree in Computer Science from TCNJ and I’m certified in NJ to teach Computer Science and Math.
 

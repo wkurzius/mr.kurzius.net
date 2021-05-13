@@ -1,12 +1,13 @@
-:root, body {
+body {
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	letter-spacing: .2px;
 }
 
 main.container {
 	max-width: 60rem;
 }
 
-figure.avatar {
+div.avatar {
 	float: left;
 	width: 5.4rem;
 	margin: 0.4rem 0.75rem 0 0;
@@ -38,7 +39,7 @@ figure.avatar {
 }
 
 .summer-work {
-	font-size: .9em;
+	font-size: small;
 	border-left: 0.25rem solid var(--gray-200);
 	padding-left: 0.5rem;
 }
