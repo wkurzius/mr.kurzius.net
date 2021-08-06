@@ -19,6 +19,9 @@ Sudents that want a jump start on the material should check out the resources an
 
 {{< /div >}}
 
+
+_**Note:** The syllabus below only applies to the 2020–21 school year._
+
 ## Course Description
 
 AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical.
