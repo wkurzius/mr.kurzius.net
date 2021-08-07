@@ -11,6 +11,7 @@ bookSearchExclude: true
 - [AP Computer Science Principles]({{<relref "/ap-csp">}})
 - [Intro to Programming]({{<relref "/intro-to-programming">}})
 - [Intro to Web Development]({{<relref "/intro-to-web-dev">}})
+- [Math Strategies]({{<relref "/math-strategies">}})
 - [Yearbook Publishing]({{<relref "/yearbook-publishing">}})
 - [Tech Apps I]({{<relref "/tech-apps-1">}})
 
