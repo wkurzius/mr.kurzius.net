@@ -7,22 +7,20 @@ bookSearchExclude: true
 
 - [{{<fa fas fa-home>}} Home]({{<relref "/">}})
 
-- **Classes**
-- [AP Computer Science Principles]({{<relref "/ap-csp">}})
-- [Intro to Programming]({{<relref "/intro-to-programming">}})
-- [Intro to Web Development]({{<relref "/intro-to-web-dev">}})
-- [Math Strategies]({{<relref "/math-strategies">}})
-- [Yearbook Publishing]({{<relref "/yearbook-publishing">}})
-- [Tech Apps I]({{<relref "/tech-apps-1">}})
+**Classes**
+- [AP Computer Science Principles]({{<relref "classes/ap-csp">}})
+- [Intro to Programming]({{<relref "classes/intro-to-programming">}})
+- [Intro to Web Development]({{<relref "classes/intro-to-web-dev">}})
+- [Math Strategies]({{<relref "classes/math-strategies">}})
+- [Yearbook Publishing]({{<relref "classes/yearbook-publishing">}})
+- [Tech Apps I]({{<relref "classes/tech-apps-1">}})
 
-- **Clubs**
-- [Yearbook Club]({{<relref "/yearbook-club">}})
+**Clubs**
+- [Yearbook Club]({{<relref "clubs/yearbook-club">}})
 
-- **Links**
-- [Valorem](https://www.mhsyearbook.com)
+**Links**
 - [Canvas](https://manville.instructure.com/)
-- [Edhesive](https://intro.edhesive.com/)
-- [Class Link](https://launchpad.classlink.com/manville)
+- [Valorem](https://www.mhsyearbook.com)
 
 [{{<fa fab fa-github-square fa-lg>}}](https://www.github.com/wkurzius)
 	[{{<fa fab fa-instagram-square fa-lg>}}](https://www.instagram.com/mhs_valorem)

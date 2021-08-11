@@ -20,7 +20,7 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 |   1  | Study Hall/Math Strategies (A/B Days)       | 10/47 |
 |   2  | AP Computer Science Principles              |   47  |
 |   3  | Yearbook Publishing                         |   47  |
-|   4  | Technology (Semester 2)                     |   47  |
+|   4  | –						                     |   –	 |
 |   5  | Into to Web Development/Programming (S1/S2) |   47  |
 |   6  | Technology Applications & Design I          |   48  |
 |   7  | –                                           |   –   |

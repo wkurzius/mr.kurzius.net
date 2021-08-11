@@ -18,13 +18,6 @@ div.avatar {
 	transform: translateZ(0);
 }
 
-.book-menu-content nav ul li:nth-child(1),
-.book-menu-content nav ul li:nth-child(8),
-.book-menu-content nav ul li:nth-child(10)
-{
-	margin-bottom: 1.5rem;
-}
-
 .book-menu-content nav > p {
 	margin-top: 1.5rem;
 }
@@ -42,4 +35,9 @@ div.avatar {
 	font-size: small;
 	border-left: 0.25rem solid var(--gray-200);
 	padding-left: 0.5rem;
+}
+
+.last-modified {
+	font-size: small;
+	font-style: italic;
 }

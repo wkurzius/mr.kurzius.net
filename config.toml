@@ -3,11 +3,14 @@ languageCode = "en-us"
 title = "Mr. Kurzius"
 theme = "book"
 
-#[markup.goldmark.renderer]
-#unsafe= true
-
 [params]
 BookMenuBundle = '/menu'
 BookTheme = 'dark'
-BookSection = '*'
-bookToc = false
+BookToc = false
+BookDateFormat = 'January 2, 2006'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.parser.attribute]
+block = true
