@@ -3,50 +3,21 @@ title: "Yearbook Publishing"
 ---
 
 # Yearbook Publishing
+_2021–2022_
 
 ## Course Description
 
-This course is designed to teach students to apply the basic principles of journalism, graphic design, and page layout in the production of the high school’s yearbook, Valorem. Students will also gain computer experience through the utilization of desktop publishing software. Additionally, students will become proficient at small business operations in the sales and marketing of these publications.
+This course is designed to teach students to apply the basic principles of journalism, graphic design and page layout in the production of the high school’s yearbook, Valorem. Students will also gain computer experience through the utilization of desktop publishing software. Additionally, students will become proficient at small business operations in the sales and marketing of these publications.
 
-Full year course worth 5 credits.
+## Course Format and Miscellaneous
 
-## Units of Study
+In the beginning of the year, class time will be more structured as there are a lot of introductory lessons on how to create a yearbook. The book itself also needs to be planned out, which includes what content will be on each page and the theme of the book.
 
-- Sales and marketing
-- Theme and coverage
-- Writing copy
-- Photography
-- Layout and design
-- Journalism
+Later, the class becomes more free form each person will be working on their assigned pages and topics. **Expect to spend a significant amount of time outside of class conducting interviews and covering events.**
 
-## Course Format and Procedures
+Also ...
 
-In the beginning of the year, class time is more structured as there are a lot of introductory lessons on how to create a yearbook. Later, the class will be broken into groups and assigned part of the book. Then, the class becomes more free form and groups will working on different tasks.
-
-### Start of class
-
-- Drop your bags in the back of the room
-- Silence your cell phones are and put them away
-- Look to the board for work or directions
-- Get materials ready (sharpen pencils, notebooks out, etc.)
-- Log in to the computer and Herff Jones (https://myhjyearbook.com)
-
-### During class
-
-- Take notes during lessons
-- Keep cell phones away, I will help with this if needed
-- Wait your turn to speak
-- If you need to use the bathroom, get up and grab the pass and ask me to sign it
-- Remain in your seat during a lesson (bathroom is the exception)
-- If you get stuck while working, ask the people around you before the teacher
-- Make mistakes and accept criticism
-
-### End of class
-
-- Clean up after yourself
-- Pick up one piece of garbage on your way out
-- Wait to be dismissed
-
-## Grading
-
-Grading is point based with no categories. As everyone will be working on different things, the main repeating assignments is an article detailing the work you’ve completed for the book (example). Occasionally, early in the year more so, there will be assignments for everyone to complete.
+- Grading is point-based
+- There is no final exam
+- Question? Ask your classmates first
+- Pick up a piece of garbage on your way out of the classroom

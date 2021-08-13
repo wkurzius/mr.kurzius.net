@@ -49,13 +49,12 @@ Innovative Technologies
 
 This course will use the Beauty and Joy of Computing curriculum which is developed by the UC Berkeley (https://bjc.edc.org). A large part of the course will have students work in Snap<em>!</em>, an advanced block-based programming language ([https://snap.berkeley.edu/snap/snap.html](https://snap.berkeley.edu/snap/snap.html)).
 
-And ...
+Also ...
 
 - Grading is point-based
 - There is no final exam
-- Keep your phones on silent
 - Question? Ask your classmates first
-- Pick up a piece of garbage on your way out
+- Pick up a piece of garbage on your way out of the classroom
 
 ## Further Reading
 

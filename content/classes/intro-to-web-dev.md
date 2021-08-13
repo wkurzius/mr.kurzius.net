@@ -30,12 +30,12 @@ Responsive Web Design Projects
 
 This course uses the freeCodeCamp curriculum which provides an online version of the lessons, assignments and resources (https://www.freecodecamp.org). The course is mostly self-paced because of this, so feel free to jump ahead. Just keep in mind that you must complete work during the marking period it was assigned.
 
-And ...
+Also ...
 
 - Grading is 40% for both exams and projects, and 20% for exercises
-- Keep your phones on silent
+- There is no final exam
 - Question? Ask your classmates first
-- Pick up a piece of garbage on your way out
+- Pick up a piece of garbage on your way out of the classroom
 
 ## Certification
 
