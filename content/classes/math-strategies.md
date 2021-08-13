@@ -17,4 +17,4 @@ The NJ Department of Education has more information here: https://www.nj.gov/edu
 
 ## Course Format and Miscellaneous
 
-The ultimate goal of this course is for each student to pass the portfolio assessment option. A completed portfolio consists of correct reponses to four open-ended questions. Classtime will be spent preparing for each question and then each student must answer the question on their own.
+The ultimate goal of this course is for each student to pass the portfolio assessment option with a completed portfolio consisting of correct reponses to four open-ended questions. Classtime will be spent preparing for each question and then each student must answer the question on their own.

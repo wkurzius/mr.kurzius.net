@@ -13,7 +13,7 @@ bookSearchExclude: true
 - [Intro to Web Development]({{<relref "classes/intro-to-web-dev">}})
 - [Math Strategies]({{<relref "classes/math-strategies">}})
 - [Yearbook Publishing]({{<relref "classes/yearbook-publishing">}})
-- [Tech Apps I]({{<relref "classes/tech-apps-1">}})
+<!--- [Tech Apps I]({{<relref "classes/tech-apps-1">}})-->
 
 **Clubs**
 - [Yearbook Club]({{<relref "clubs/yearbook-club">}})

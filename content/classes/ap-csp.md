@@ -27,27 +27,24 @@ The remaining 70% is the End-of-Course Multiple-Choice Exam. It consists of 70 m
 
 ## Units of Study
 
-Computational Thinking
-: Study the iterative development process and start applying it to build your own programs in Scratch.
+Introduction to Programming
+: Covers the the basics of programming and looks at privacy concerns and the internet.
 
-Programming
-: Examine computational logic structures and problem solving capabilities for programs in text-based algorithms, AP-style pseudocode and Scratch.
+Abstraction
+: How to hide the complexity of a program, both from the programmer and the user. We'll also look at copyrights and fair use.
 
-Data Representation
-: Explore the different means of representing information digitally.
+Data Structures
+: Using lists to manage more complex data and also the role of AI and automation in the world.
 
-Digital Media Processing
-: Use Python to programmatically manipulate digital images and audio.
+How the Internet Works
+: All about the internet including some history, security issues and how data is transmitted.
 
-Big Data
-: Discover new knowledge through the use of large data sets.
-
-Innovative Technologies
-: Assess the current state of technology and investigate its role in our everyday lives.
+Algorithms and Data
+: Analyzing how effecient a program is at producing results and the effect of computing in warfare.
 
 ## Course Format and Miscellaneous
 
-This course will use the Beauty and Joy of Computing curriculum which is developed by the UC Berkeley (https://bjc.edc.org). A large part of the course will have students work in Snap<em>!</em>, an advanced block-based programming language ([https://snap.berkeley.edu/snap/snap.html](https://snap.berkeley.edu/snap/snap.html)).
+This course will use the Beauty and Joy of Computing curriculum which is developed by UC Berkeley (https://bjc.edc.org). A large part of the course will have students work in Snap<em>!</em>, an advanced block-based programming language ([https://snap.berkeley.edu/snap/snap.html](https://snap.berkeley.edu/snap/snap.html)).
 
 Also ...
 
