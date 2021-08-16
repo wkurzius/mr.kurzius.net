@@ -33,6 +33,7 @@ This course uses the freeCodeCamp curriculum which provides an online version of
 Also ...
 
 - Grading is 40% for both exams and projects, and 20% for exercises
+- Late work loses two percentage points per day with a floor of 70%
 - There is no final exam
 - Question? Ask your classmates first
 - Pick up a piece of garbage on your way out of the classroom

@@ -33,6 +33,7 @@ In the beginning of the year, class time will be more structured as there are a 
 Also ...
 
 - Grading is point-based
+- Late work loses two percentage points per day with a floor of 70%
 - There is no final exam
 - Question? Ask your classmates first
 - Pick up a piece of garbage on your way out of the classroom
