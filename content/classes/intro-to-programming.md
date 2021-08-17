@@ -35,7 +35,7 @@ This course uses the CS1 curriculum provided by Carnagie Mellon University (http
 
 Also ...
 
-- Grading is 40% for both exams and projects, and 20% for exercises
+- Grading is 40% for both quizzes and creative tasks, and 20% for exercises
 - Late work loses two percentage points per day with a floor of 70%
 - There is no final exam
 - Question? Ask your classmates first
