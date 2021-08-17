@@ -35,7 +35,7 @@ This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS
 
 Also ...
 
-- Grading is 40% for both quizzes and creative tasks, and 20% for exercises
+- Grading is 40% for quizzes and 30% for both Creative Tasks and exercises
 - Late work loses two percentage points per day with a floor of 70%
 - There is no final exam
 - Question? Ask your classmates first
