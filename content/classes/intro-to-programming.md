@@ -31,7 +31,7 @@ Groups, Step Events, and Motion
 
 ## Course Format and Miscellaneous
 
-This course uses the CS1 curriculum provided by Carnagie Mellon University (https://academy.cs.cmu.edu). It provides an online version of the lessons, assignments and resources. The course is mostly self-paced because of this, so feel free to jump ahead. Just keep in mind that you must complete work during the marking period it was assigned.
+This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS Academy](https://academy.cs.cmu.edu). It provides an online version of the lessons, assignments and resources. The course is mostly self-paced because of this, so feel free to jump ahead. Just keep in mind that you must complete work during the marking period it was assigned.
 
 Also ...
 

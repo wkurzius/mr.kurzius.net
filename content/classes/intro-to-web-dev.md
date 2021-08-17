@@ -28,7 +28,7 @@ Responsive Web Design Projects
 
 ## Course Format and Miscellaneous
 
-This course uses the freeCodeCamp curriculum which provides an online version of the lessons, assignments and resources (https://www.freecodecamp.org). The course is mostly self-paced because of this, so feel free to jump ahead. Just keep in mind that you must complete work during the marking period it was assigned.
+This course uses the Responsive Web Design curriculum provided by [freeCodeCamp](https://www.freecodecamp.org/) which serves an online version of the lessons, assignments and resources. The course is mostly self-paced because of this, so feel free to jump ahead. Just keep in mind that you must complete work during the marking period it was assigned.
 
 Also ...
 

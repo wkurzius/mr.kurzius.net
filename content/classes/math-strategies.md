@@ -13,7 +13,7 @@ Students who—based on multiple measures including PARCC assessments—have bee
 
 Aside from passing courses and earning credits, in order to graduate high school you must also demonstrate proficiency in both English and math on an approved assessment. There are a number of approved assessments (e.g. NJSLA/PARCC, SAT, Accuplacer) along with a portfolio option. Meeting the threshhold on any one these assessments will allow you to graduate. 
 
-The NJ Department of Education has more information here: https://www.nj.gov/education/assessment/docs/GradReq.pdf
+The NJ Department of Education has more information here: [New Jersey High School Graduation Assessment Requirements](https://www.nj.gov/education/assessment/docs/GradReq.pdf)
 
 ## Course Format and Miscellaneous
 

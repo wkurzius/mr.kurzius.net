@@ -44,7 +44,7 @@ Algorithms and Data
 
 ## Course Format and Miscellaneous
 
-This course will use the Beauty and Joy of Computing curriculum which is developed by UC Berkeley (https://bjc.edc.org). A large part of the course will have students work in Snap<em>!</em>, an advanced block-based programming language ([https://snap.berkeley.edu/snap/snap.html](https://snap.berkeley.edu/snap/snap.html)).
+This course will use the [Beauty and Joy of Computing curriculum](https://bjc.edc.org/) which is developed by UC Berkeley. A large part of the course will have students work in [Snap<em>!</em>, an advanced block-based programming language](https://snap.berkeley.edu/snap/snap.html).
 
 Also ...
 
