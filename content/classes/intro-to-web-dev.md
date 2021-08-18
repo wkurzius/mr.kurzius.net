@@ -32,7 +32,7 @@ This course uses the Responsive Web Design curriculum provided by [freeCodeCamp]
 
 Also ...
 
-- Grading is 40% for both exams and projects, and 20% for exercises
+- Grading is 40% for exams and 30% for both projects and exercises
 - Late work loses two percentage points per day with a floor of 70%
 - There is no final exam
 - Question? Ask your classmates first
