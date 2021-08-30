@@ -10,7 +10,7 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 
 | Per. | Class                                       |  Room |
 |:----:|---------------------------------------------|:-----:|
-|   1  | Study Hall/Math Strategies (A/B Days)       | 10/47 |
+|   1  | Study Hall/Math Strategies (A/B Days)       |   47  |
 |   2  | AP Computer Science Principles              |   47  |
 |   3  | Yearbook Publishing                         |   47  |
 |   4  | –						                     |   –	 |
