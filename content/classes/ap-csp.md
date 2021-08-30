@@ -5,7 +5,7 @@ title: "AP Computer Science Principles"
 # AP Computer Science Principles
 _2021–2022_
 
-
+<!--
 {{< div summer-work >}}
 
 ## Summer Work
@@ -13,7 +13,7 @@ _2021–2022_
 Sudents that want a jump start on the material should check out the resources and exercises on [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles). I recommend completeing at least the Algorithms unit.
 
 {{< /div >}}
-
+-->
 
 ## Course Description
 
