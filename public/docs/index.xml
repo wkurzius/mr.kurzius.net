@@ -1,91 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Docs on Mr. Kurzius</title>
-    <link>https://beta.kurzius.net/docs/</link>
-    <description>Recent content in Docs on Mr. Kurzius</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 05 May 2021 10:20:37 -0400</lastBuildDate><atom:link href="https://beta.kurzius.net/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AP Computer Science Principles</title>
-      <link>https://beta.kurzius.net/docs/ap-csp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://beta.kurzius.net/docs/ap-csp/</guid>
-      <description>AP Computer Science Principles#Summer Work#Although we will follow the Edhesive program come fall, students that want to get a jump start on the material should check out the resources and exercises on Khan Academy. This is optional summer work but students should be prepared for a fast-paced beginning of the year. With that in mind, I recommend you work through at least the Algorithms unit.</description>
-    </item>
-    
-    <item>
-      <title>Intro to Programming</title>
-      <link>https://beta.kurzius.net/docs/intro-to-programming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://beta.kurzius.net/docs/intro-to-programming/</guid>
-      <description>Intro to Programming#Course Description#A computer is basically lightning trapped inside a rock and programming is telling the lighting what it should do. This one-semester course is for those with an interest in computer programming, whether it’s a career goal or just curiosity. It covers storing values in variables, using functions to manipulate those variables, and controlling the flow of those functions with repetition and conditionals.</description>
-    </item>
-    
-    <item>
-      <title>Intro to Web Development</title>
-      <link>https://beta.kurzius.net/docs/intro-to-web-dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://beta.kurzius.net/docs/intro-to-web-dev/</guid>
-      <description>Intro to Web Development#Course Description#Anyone who’s anyone has their own website and this is where you can make yours. This one-semester course focuses on the front-end of web development, or the stuff that everyone sees. This includes structure with Hypertext Markup Language (HTML), style with Cascading Style Sheets (CSS) and will have students begin to build a portfolio of work for future employment.
-Units of Study# Basic HTML and HTML5 Define the structure of a webpage with markup language.</description>
-    </item>
-    
-    <item>
-      <title>Technology Applications &amp; Design I</title>
-      <link>https://beta.kurzius.net/docs/tech-apps-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://beta.kurzius.net/docs/tech-apps-1/</guid>
-      <description>Technology Applications &amp;amp; Design I#Course Description#This course allows students to proceed through hands-on learning that will include design and problem solving activities. Students will use the engineering process to identify requirements and restrictions of a problem, design a solution, build it and determine if it solves that problem. The course will also have students look at engineering career paths along with technology’s impact on society.</description>
-    </item>
-    
-    <item>
-      <title>Yearbook Club</title>
-      <link>https://beta.kurzius.net/docs/yearbook-club/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://beta.kurzius.net/docs/yearbook-club/</guid>
-      <description>Yearbook Club#Yearbook Club is for students who wish to contribute to Valorem without being enrolled in Yearbook Publishing. All are welcome and the only requirement for membership is to be a regular contributor. That means conducting interviews, submitting photos or writing articles that document the who and what of the school year.
-Interested parties should reach out through email or Google Chat. Meetings will happen based on individual availability.</description>
-    </item>
-    
-    <item>
-      <title>Yearbook Publishing</title>
-      <link>https://beta.kurzius.net/docs/yearbook-publishing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://beta.kurzius.net/docs/yearbook-publishing/</guid>
-      <description>Yearbook Publishing#Course Description#This course is designed to teach students to apply the basic principles of journalism, graphic design, and page layout in the production of the high school’s yearbook, Valorem. Students will also gain computer experience through the utilization of desktop publishing software. Additionally, students will become proficient at small business operations in the sales and marketing of these publications.
-Full year course worth 5 credits.</description>
-    </item>
-    
-    <item>
-      <title>Menu</title>
-      <link>https://beta.kurzius.net/docs/menu/</link>
-      <pubDate>Wed, 05 May 2021 10:20:37 -0400</pubDate>
-      
-      <guid>https://beta.kurzius.net/docs/menu/</guid>
-      <description>   Home
-  Classes
-  AP Computer Science Principles
-  Intro to Programming
-  Intro to Web Development
-  Yearbook Publishing
-  Tech Apps I
-  Clubs
-  Yearbook Club
-  Links
-  Valorem
-  Canvas
-  Edhesive
-  Class Link
-  </description>
-    </item>
-    
-  </channel>
-</rss>
