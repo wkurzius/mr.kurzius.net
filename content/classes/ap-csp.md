@@ -3,17 +3,17 @@ title: "AP Computer Science Principles"
 ---
 
 # AP Computer Science Principles
-_2021–2022_
+_Sort of up to date for 2022–2023_
 
-<!--
+
 {{< div summer-work >}}
 
 ## Summer Work
 
-Sudents that want a jump start on the material should check out the resources and exercises on [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles). I recommend completeing at least the Algorithms unit.
+Students that want a jump start on the material should check out the resources and exercises on [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles). I recommend completeing at least the Algorithms unit.
 
 {{< /div >}}
--->
+
 
 ## Course Description
 
@@ -21,9 +21,9 @@ Computer Science Principles introduces students to the foundational concepts of 
 
 ## AP Exam
 
-The AP CSP Exam consists of two parts. The first is the Create Performance Task where students will have 12 hours of class time to produce a computer program of their choosing. Submission includes the program’s code, a video of the program running and written responses to the given prompts. The task is worth 30% of the exam score and is due May 2, 2022.
+The AP CSP Exam consists of two parts. The first is the Create Performance Task where students will have 12 hours of class time to produce a computer program of their choosing. Submission includes the program’s code, a video of the program running and written responses to the given prompts. The task is worth 30% of the exam score and is due TBD.
 
-The remaining 70% is the End-of-Course Multiple-Choice Exam. It consists of 70 multiple-choice questions and takes place on May 9, 2022.
+The remaining 70% is the End-of-Course Multiple-Choice Exam. It consists of 70 multiple-choice questions and takes place on TBD.
 
 ## Units of Study
 
@@ -57,4 +57,5 @@ Also ...
 ## Further Reading
 
 - [Full BJC syllabus](https://bjc.edc.org/bjc-r/docs/BJC-Syllabus-2020.pdf)
+- [AP Computer Science Principles Student Handouts](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf)
 - [AP Computer Science Principles Course and Exam Description](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles)
