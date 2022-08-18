@@ -6,10 +6,10 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="AP Calculus AB#2022–2023
-Summer Work#I recommend completing the Get ready for AP Calculus course on Khan Academy.Course Description#Computer Science Principles introduces students to the foundational concepts of computer science and challenges them to explore how computing and technology can impact the world. More than a traditional introduction to programming, it is a rigorous, engaging, and approachable course that explores many of the foundational ideas of computing so all students understand how these concepts are transforming our world.">
+Summer Work#I recommend completing the Get ready for AP Calculus course on Khan Academy.Course Description#Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You&rsquo;ll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions">
 <meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="AP Calculus AB" />
 <meta property="og:description" content="AP Calculus AB#2022–2023
-Summer Work#I recommend completing the Get ready for AP Calculus course on Khan Academy.Course Description#Computer Science Principles introduces students to the foundational concepts of computer science and challenges them to explore how computing and technology can impact the world. More than a traditional introduction to programming, it is a rigorous, engaging, and approachable course that explores many of the foundational ideas of computing so all students understand how these concepts are transforming our world." />
+Summer Work#I recommend completing the Get ready for AP Calculus course on Khan Academy.Course Description#Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You&rsquo;ll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://beta.kurzius.net/classes/ap-calculus/" /><meta property="article:section" content="classes" />
 
@@ -19,13 +19,29 @@ Summer Work#I recommend completing the Get ready for AP Calculus course on Kha
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.e8cef7fd0105a1355f0515043af278aeccac361b9a1040e6da16a0630f6c07e9.css" integrity="sha256-6M73/QEFoTVfBRUEOvJ4rsysNhuaEEDm2hagYw9sB&#43;k=">
-<script defer src="/en.search.min.d03c832b44c83a87bda79b24b51ca18c9202081af1c8f7dc033e1ab30669c780.js" integrity="sha256-0DyDK0TIOoe9p5sktRyhjJICCBrxyPfcAz4aswZpx4A="></script>
+<script defer src="/en.search.min.a64dab1f2a6bbcf44d7cc23ef6bb580d37e0b44703d4f82e9f8d99893fd99f15.js" integrity="sha256-pk2rHyprvPRNfMI&#43;9rtYDTfgtEcD1Pgun42ZiT/ZnxU="></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
 
   <link href="/css/all.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js"></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false}
+            ]
+        });
+    });
+</script>
+
 </head>
 
 <body dir="ltr">
@@ -63,7 +79,7 @@ https://github.com/alex-shpak/hugo-book
 </ul>
 <p><strong>Classes</strong></p>
 <ul>
-<li>AP Calculus</li>
+<li><a href="/classes/ap-calculus/"class=active>AP Calculus</a></li>
 <li><a href="/classes/ap-csp/">AP Computer Science Principles</a></li>
 <li>Engineering Design I</li>
 <li><a href="/classes/intro-to-programming/">Intro to Programming</a></li>
@@ -145,50 +161,53 @@ https://github.com/alex-shpak/hugo-book
   Course Description
   <a class="anchor" href="#course-description">#</a>
 </h2>
-<p>Computer Science Principles introduces students to the foundational concepts of computer science and challenges them to explore how computing and technology can impact the world. More than a traditional introduction to programming, it is a rigorous, engaging, and approachable course that explores many of the foundational ideas of computing so all students understand how these concepts are transforming our world.</p>
+<p>Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You&rsquo;ll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions</p>
 <h2 id="ap-exam">
   AP Exam
   <a class="anchor" href="#ap-exam">#</a>
 </h2>
-<p>The AP CSP Exam consists of two parts. The first is the Create Performance Task where students will have 12 hours of class time to produce a computer program of their choosing. Submission includes the program’s code, a video of the program running and written responses to the given prompts. The task is worth 30% of the exam score and is due TBD.</p>
-<p>The remaining 70% is the End-of-Course Multiple-Choice Exam. It consists of 70 multiple-choice questions and takes place on TBD.</p>
+<p>The AP exams is 3 hours and 15 minute long and include 45 multiple-choice questions and 6 free-response questions. A calculator is not permitted on 30 of the multiple-choice questions and 4 of the free-response questions. The exam takes place on <strong>Monday, May 8 at 8 a.m.</strong></p>
 <h2 id="units-of-study">
   Units of Study
   <a class="anchor" href="#units-of-study">#</a>
 </h2>
 <dl>
-<dt>Introduction to Programming</dt>
-<dd>Covers the the basics of programming and looks at privacy concerns and the internet.</dd>
-<dt>Abstraction</dt>
-<dd>How to hide the complexity of a program, both from the programmer and the user. We&rsquo;ll also look at copyrights and fair use.</dd>
-<dt>Data Structures</dt>
-<dd>Using lists to manage more complex data and also the role of AI and automation in the world.</dd>
-<dt>How the Internet Works</dt>
-<dd>All about the internet including some history, security issues and how data is transmitted.</dd>
-<dt>Algorithms and Data</dt>
-<dd>Analyzing how efficient a program is at producing results and the effect of computing in warfare.</dd>
+<dt>1 Limits and Continuity</dt>
+<dd>You’ll start to explore how limits will allow you to solve problems involving change and to better understand mathematical reasoning about functions.</dd>
+<dt>2 Differentiation: Definition and Fundamental Properties</dt>
+<dd>You’ll apply limits to define the derivative, become skillful at determining derivatives, and continue to develop mathematical reasoning skills.</dd>
+<dt>3 Differentiation: Composite, Implicit, and Inverse Functions:</dt>
+<dd>You’ll master using the chain rule, develop new differentiation techniques, and be introduced to higher-order derivatives.</dd>
+<dt>4 Contextual Applications of Differentiation</dt>
+<dd>You’ll apply derivatives to set up and solve real-world problems involving instantaneous rates of change and use mathematical reasoning to determine limits of certain indeterminate forms.</dd>
+<dt>5 Analytical Applications of Differentiation</dt>
+<dd>After exploring relationships among the graphs of a function and its derivatives, you&rsquo;ll learn to apply calculus to solve optimization problems.</dd>
+<dt>6 Integration and Accumulation of Change</dt>
+<dd>You’ll learn to apply limits to define definite integrals and how the Fundamental Theorem connects integration and differentiation. You’ll apply properties of integrals and practice useful integration techniques.</dd>
+<dt>7 Differential Equations</dt>
+<dd>You’ll learn how to solve certain differential equations and apply that knowledge to deepen your understanding of exponential growth and decay.</dd>
+<dt>8 Applications of Integration</dt>
+<dd>You’ll make mathematical connections that will allow you to solve a wide range of problems involving net change over an interval of time and to find areas of regions or volumes of solids defined using functions.</dd>
 </dl>
-<h2 id="course-format-and-miscellaneous">
-  Course Format and Miscellaneous
-  <a class="anchor" href="#course-format-and-miscellaneous">#</a>
-</h2>
-<p>This course will use the <a href="https://bjc.edc.org/">Beauty and Joy of Computing curriculum</a> which is developed by UC Berkeley. A large part of the course will have students work in <a href="https://snap.berkeley.edu/snap/snap.html">Snap<em>!</em>, an advanced block-based programming language</a>.</p>
-<p>Also &hellip;</p>
-<ul>
-<li>Grading is point-based</li>
-<li>Late work loses two percentage points per day with a floor of 70%</li>
-<li>There is no final exam</li>
-<li>Question? Ask your classmates first</li>
-<li>Pick up a piece of garbage on your way out of the classroom</li>
-</ul>
+<!--
+## Course Format and Miscellaneous
+This course will use the [Beauty and Joy of Computing curriculum](https://bjc.edc.org/) which is developed by UC Berkeley. A large part of the course will have students work in [Snap<em>!</em>, an advanced block-based programming language](https://snap.berkeley.edu/snap/snap.html).
+
+Also ...
+
+- Grading is point-based
+- Late work loses two percentage points per day with a floor of 70%
+- There is no final exam
+- Question? Ask your classmates first
+- Pick up a piece of garbage on your way out of the classroom
+-->
 <h2 id="further-reading">
   Further Reading
   <a class="anchor" href="#further-reading">#</a>
 </h2>
 <ul>
-<li><a href="https://bjc.edc.org/bjc-r/docs/BJC-Syllabus-2020.pdf">Full BJC syllabus</a></li>
-<li><a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf">AP Computer Science Principles Student Handouts</a></li>
-<li><a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles">AP Computer Science Principles Course and Exam Description</a></li>
+<li><a href="https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf">Course and Exam Description</a></li>
+<li><a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment">Additional exam information</a></li>
 </ul>
 </article>
  

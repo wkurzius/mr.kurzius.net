@@ -3,7 +3,7 @@ title: "AP Computer Science Principles"
 ---
 
 # AP Computer Science Principles
-_Sort of up to date for 2022–2023_
+_2022–2023_
 
 {{< div summer-work >}}
 
@@ -16,9 +16,9 @@ Students that want a jump start on the material should check out the resources a
 Computer Science Principles introduces students to the foundational concepts of computer science and challenges them to explore how computing and technology can impact the world. More than a traditional introduction to programming, it is a rigorous, engaging, and approachable course that explores many of the foundational ideas of computing so all students understand how these concepts are transforming our world.
 
 ## AP Exam
-The AP CSP Exam consists of two parts. The first is the Create Performance Task where students will have 12 hours of class time to produce a computer program of their choosing. Submission includes the program’s code, a video of the program running and written responses to the given prompts. The task is worth 30% of the exam score and is due TBD.
+The AP CSP Exam consists of two parts. The first is the Create Performance Task where students will have 12 hours of class time to produce a computer program of their choosing. Submission includes the program’s code, a video of the program running and written responses to the given prompts. The task is worth 30% of the exam score and is due **May 1, 2023**.
 
-The remaining 70% is the End-of-Course Multiple-Choice Exam. It consists of 70 multiple-choice questions and takes place on TBD.
+The remaining 70% is the End-of-Course Multiple-Choice Exam. It consists of 70 multiple-choice questions and takes place on **May 8, 2023 at 12 p.m.**
 
 ## Units of Study
 Introduction to Programming

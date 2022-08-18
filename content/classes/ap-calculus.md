@@ -17,7 +17,7 @@ I recommend completing the [Get ready for AP Calculus course on Khan Academy](ht
 Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You'll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions
 
 ## AP Exam
-The AP exams is 3 hours and 15 minute long and include 45 multiple-choice questions and 6 free-response questions. A calculator is not permitted on 30 of the multiple-choice questions and 4 of the free-response questions. The exam takes place on **Monday, May 8 at 8:00 a.m.**
+The AP exams is 3 hours and 15 minute long and include 45 multiple-choice questions and 6 free-response questions. A calculator is not permitted on 30 of the multiple-choice questions and 4 of the free-response questions. The exam takes place on **Monday, May 8 at 8 a.m.**
 
 ## Units of Study
 1 Limits and Continuity
@@ -44,6 +44,7 @@ The AP exams is 3 hours and 15 minute long and include 45 multiple-choice questi
 8 Applications of Integration
 : You’ll make mathematical connections that will allow you to solve a wide range of problems involving net change over an interval of time and to find areas of regions or volumes of solids defined using functions.
 
+<!--
 ## Course Format and Miscellaneous
 This course will use the [Beauty and Joy of Computing curriculum](https://bjc.edc.org/) which is developed by UC Berkeley. A large part of the course will have students work in [Snap<em>!</em>, an advanced block-based programming language](https://snap.berkeley.edu/snap/snap.html).
 
@@ -54,8 +55,8 @@ Also ...
 - There is no final exam
 - Question? Ask your classmates first
 - Pick up a piece of garbage on your way out of the classroom
+-->
 
 ## Further Reading
-- [Full BJC syllabus](https://bjc.edc.org/bjc-r/docs/BJC-Syllabus-2020.pdf)
-- [AP Computer Science Principles Student Handouts](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf)
-- [AP Computer Science Principles Course and Exam Description](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles)
+- [Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)
+- [Additional exam information](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment)
