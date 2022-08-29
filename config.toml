@@ -1,4 +1,4 @@
-baseURL = "https://beta.kurzius.net/"
+baseURL = "https://mr.kurzius.net/"
 languageCode = "en-us"
 title = "Mr. Kurzius"
 theme = "book"
@@ -8,6 +8,7 @@ BookMenuBundle = '/menu'
 BookTheme = 'dark'
 BookToc = false
 BookDateFormat = 'January 2, 2006'
+BookSearch = false
 
 [markup.goldmark.renderer]
 unsafe = true
