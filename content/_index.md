@@ -10,17 +10,17 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 
 ### Schedule for 2022–23
 
-| Per. | Class                                              | Room |
-| :--: | -------------------------------------------------- | :--: |
-|  1   | AP Calculus AB                                     | TBD  |
-|  2   | AP Computer Science Principles                     | TBD  |
-|  3   | Integrated Engineering/Into to Programming (S1/S2) | TBD  |
-|  4   | -                                                  |  -   |
-|  5   | Engineering Design I                               | TBD  |
-|  6   | -                                                  |  -   |
-|  7   | -                                                  |  -   |
-|  8   | -                                                  |  -   |
-|  9   | Into to Programming/Web Development (S1/S2)        | TBD  |
+| Per. | Class                                              |  Room  |
+| :--: | -------------------------------------------------- | :----: |
+|  1   | AP Calculus AB                                     |   47   |
+|  2   | AP Computer Science Principles                     |   47   |
+|  3   | Integrated Engineering/Into to Programming (S1/S2) | 17/47  |
+|  4   | -                                                  |   -    |
+|  5   | Engineering Design I                               |   48   |
+|  6   | Lunch Duty                                         | Café B |
+|  7   | -                                                  |   -    |
+|  8   | -                                                  |   -    |
+|  9   | Into to Programming/Web Development (S1/S2)        |   47   |
 
 ## About
 
