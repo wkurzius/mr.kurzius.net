@@ -8,7 +8,7 @@ bookSearchExclude: true
 - [{{<fa fas fa-home>}} Home]({{<relref "/">}})
 
 **Classes**
-- [AP Calculus]({{<relref "classes/ap-calculus">}})
+- [AP Calculus AB]({{<relref "classes/ap-calculus-ab">}})
 - [AP Computer Science Principles]({{<relref "classes/ap-csp">}})
 - Engineering Design I
 - [Intro to Programming]({{<relref "classes/intro-to-programming">}})
