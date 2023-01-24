@@ -3,7 +3,7 @@ title: "Intro to Programming"
 ---
 
 # Intro to Programming
-_2021–2022_
+_2022–2023_
 
 ## Course Description
 
@@ -30,28 +30,10 @@ Groups, Step Events, and Motion
 : Moving pictures, but I like to call them move-ies.
 
 ## Course Format and Miscellaneous
-This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS Academy](https://academy.cs.cmu.edu). It provides an online version of the lessons, assignments and resources. The course is mostly self-paced because of this, so feel free to jump ahead. Just keep in mind that you must complete work during the marking period it was assigned.
-
-### Grading
-Grading is point-based with each unit weighted differently depending on the marking period.
-
-#### First marking period of the semester
-
-| Unit | Weight |
-|------|--------|
-| 1    | 75%    |
-| 2    | 15%    |
-| 3    | 10%    |
-
-#### Second marking period of the semester
-| Unit(s) | Weight |
-|---------|--------|
-| 1–3     | 70%    |
-| 4       | 20%    |
-| 5       | 5%     |
-| 6       | 5%     |
+This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS Academy](https://academy.cs.cmu.edu). It provides an online version of the lessons, assignments and resources. The course is mostly self-paced, so students can learn at their own speed. Because of this, grading is based on the amount of the course students complete with earlier units being worth much more than later ones.
 
 Also ...
+
 - There is no final exam
-- Question? Ask your classmates first
+- Question? Ask your classmates first.
 - Pick up a piece of garbage on your way out of the classroom
