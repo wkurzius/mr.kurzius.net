@@ -8,6 +8,7 @@ bookSearchExclude: true
 - [{{<fa fas fa-home>}} Home]({{<relref "/">}})
 
 **Classes**
+- [AP Summer Work]({{<relref "classes/summer-work">}})
 - [AP Calculus AB]({{<relref "classes/ap-calculus-ab">}})
 - [AP Computer Science Principles]({{<relref "classes/ap-csp">}})
 - Engineering Design I
