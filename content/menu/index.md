@@ -8,14 +8,15 @@ bookSearchExclude: true
 - [{{<fa fas fa-home>}} Home]({{<relref "/">}})
 
 **Classes**
-- [AP Summer Work]({{<relref "classes/summer-work">}})
-- [AP Calculus AB]({{<relref "classes/ap-calculus-ab">}})
+- [Summer Work]({{<relref "classes/summer-work">}})
+- [AP Computer Science A]({{<relref "classes/ap-csa">}})
+- [Calculus]({{<relref "classes/calculus">}})
+- [Math Strategies]({{<relref "classes/math-strategies">}})
+<!--
 - [AP Computer Science Principles]({{<relref "classes/ap-csp">}})
 - Engineering Design I
 - [Intro to Programming]({{<relref "classes/intro-to-programming">}})
 - [Intro to Web Development]({{<relref "classes/intro-to-web-dev">}})
-<!--
-- [Math Strategies]({{<relref "classes/math-strategies">}})
 - [Yearbook Publishing]({{<relref "classes/yearbook-publishing">}})
 - [Tech Apps I]({{<relref "classes/tech-apps-1">}})
 -->
