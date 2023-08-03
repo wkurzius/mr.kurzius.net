@@ -10,7 +10,7 @@ bookSearchExclude: true
 **Classes**
 - [Summer Work]({{<relref "classes/summer-work">}})
 - [AP Computer Science A]({{<relref "classes/ap-csa">}})
-- [Calculus]({{<relref "classes/calculus">}})
+- [Honors Calculus]({{<relref "classes/calculus">}})
 - [Math Strategies]({{<relref "classes/math-strategies">}})
 <!--
 - [AP Computer Science Principles]({{<relref "classes/ap-csp">}})

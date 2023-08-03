@@ -2,7 +2,7 @@
 title: "AP Computer Science A"
 ---
 
-# AP Computer Science Principles
+# AP Computer Science A
 _2023–2024_
 
 ## Course Description
@@ -50,7 +50,7 @@ Also ...
 - Exams are worth 60% of your grade, quizzes and major assignments 30%, and coding activities 10% 
 - The official gradebook will exist on Canvas, with Genesis only having the overall grade
 - Ask your classmates first when you have a question about the material
-- If you wish to install Java on your own machine, I recommend [Adoptium's](https://adoptium.net/) distribution
+- If you wish to install Java on your own machine, I recommend [Adoptium's latest LTS release](https://adoptium.net/)
 
 ## Further Reading
 - [AP Computer Science A Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf)
