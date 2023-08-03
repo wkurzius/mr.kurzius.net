@@ -10,9 +10,8 @@ bookSearchExclude: true
 **Classes**
 - [Summer Work]({{<relref "classes/summer-work">}})
 - Algebra I
-<!-- - [Algebra I]({{<relref "classes/algebra-1">}})-->
 - [AP Computer Science A]({{<relref "classes/ap-csa">}})
-- [Honors Calculus]({{<relref "classes/calculus">}})
+- Honors Calculus
 - [Math Strategies]({{<relref "classes/math-strategies">}})
 
 <!--
