@@ -23,10 +23,10 @@ bookSearchExclude: true
 - [Tech Apps I]({{<relref "classes/tech-apps-1">}})
 -->
 
-<!--
 **Clubs**
-- [Yearbook Club]({{<relref "clubs/yearbook-club">}})
+- [MHS Esports]({{<relref "clubs/esports">}})
 
+<!--
 **Links**
 - [Canvas](https://manville.instructure.com/)
 - [Valorem](https://www.mhsyearbook.com)

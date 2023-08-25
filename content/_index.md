@@ -8,19 +8,19 @@ title: "Home"
 
 You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077 or find me in the building.
 
-### Schedule for 2023–24
+### Schedule for Semester 1, 2023–24
 
-| Per. | Class | Room |
-| :--: | ----- | :--: |
-|  1   | -     |  -   |
-|  2   | -     |  -   |
-|  3   | -     |  -   |
-|  4   | -     |  -   |
-|  5   | -     |  -   |
-|  6   | -     |  -   |
-|  7   | -     |  -   |
-|  8   | -     |  -   |
-|  9   | -     |  -   |
+| Per. | Class                 |     Room     |
+| :--: | --------------------- | :----------: |
+|  1   | -                     |      -       |
+|  2   | Honors Calculus       | Media Center |
+|  3   | Math Strategies       |      47      |
+|  4   | -                     |      -       |
+|  5   | Algebra I             |      30      |
+|  6   | Math Strategies       |      47      |
+|  7   | AP Computer Science A | Media Center |
+|  8   | -                     |      -       |
+|  9   | -                     |      -       |
 
 ## About
 
