@@ -24,7 +24,7 @@ bookSearchExclude: true
 -->
 
 **Clubs**
-- [MHS Esports]({{<relref "clubs/esports">}})
+- Esports
 
 <!--
 **Links**
