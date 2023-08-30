@@ -1,14 +1,14 @@
 ---
 title: "Honors Calculus"
 math: true
-draft: true
+draft: false
 ---
 
 # Honors Calculus
 _2023–2024_
 
 ## Course Description
-Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You'll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions
+Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You'll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions.
 
 <!--
  ## AP Exam
@@ -43,7 +43,9 @@ The AP exams is 3 hours and 15 minute long and include 45 multiple-choice questi
 ## Miscellaneous
 We will use the book _Calculus: Graphical, Numerical, Algebraic_ (AP ed., 5th ed.) as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc) course. I suggest reviewing the latter prior to any new chapter.
 
-You will also have access to TI-84 Plus calculators in class, and an emulator of the same is on your Chromebooks. Purchasing your own is not a bad idea if you have the means, but *not* required in any way shape or form. I still have a TI-89 from my freshman year of college over 20 years ago, so it’s worth considering if you anticipate using it after this course. For a list of acceptable calculators, see [this list from College Board](https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies#list). You want calculators with an asterisk after their name.
+You will also have access to TI-84 Plus calculators in class, and an emulator of the same is on your Chromebooks. Purchasing your own is not a bad idea if you have the means, but *not* required in any way shape or form. I still have a TI-89 from my freshman year of college over 20 years ago, so it’s worth considering if you anticipate using it after this course.
+
+If you intend to purchase a calculator and take the AP exam, see [this list of acceptable calculators from College Board](https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies#list). You want calculators with an asterisk after their name.
 
 Also ...
 
