@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://mr.kurzius.net/classes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Algebra I</title>
+      <link>https://mr.kurzius.net/classes/algebra-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mr.kurzius.net/classes/algebra-1/</guid>
+      <description>Algebra I#2023–2024
+Course Description#This course focuses on deepening understanding of linear and exponential relationships by contrasting them with each other. Students will apply linear models to data that exhibit a linear trend, and also engage in methods for analyzing, solving, and using quadratic functions.
+Units of Study#1 Limits and Continuity Explore how limits allow solving problems involving change and to better understand mathematical reasoning about functions.</description>
+    </item>
+    
+    <item>
       <title>AP Computer Science A</title>
       <link>https://mr.kurzius.net/classes/ap-csa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17,34 +28,14 @@ Course Description#AP Computer Science A introduces students to computer scien
     </item>
     
     <item>
-      <title>AP Computer Science Principles</title>
-      <link>https://mr.kurzius.net/classes/ap-csp/</link>
+      <title>Honors Calculus</title>
+      <link>https://mr.kurzius.net/classes/calculus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mr.kurzius.net/classes/ap-csp/</guid>
-      <description>AP Computer Science Principles#2022–2023
-Summer Work#Students that want a jump start on the material should check out the resources and exercises on Khan Academy. I recommend completing at least the Algorithms unit.Course Description#Computer Science Principles introduces students to the foundational concepts of computer science and challenges them to explore how computing and technology can impact the world. More than a traditional introduction to programming, it is a rigorous, engaging, and approachable course that explores many of the foundational ideas of computing so all students understand how these concepts are transforming our world.</description>
-    </item>
-    
-    <item>
-      <title>Intro to Programming</title>
-      <link>https://mr.kurzius.net/classes/intro-to-programming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mr.kurzius.net/classes/intro-to-programming/</guid>
-      <description>Intro to Programming#2022–2023
-Course Description#A computer is basically lightning trapped inside a rock and programming is telling the lighting what it should do. This one-semester course is for those with an interest in computer programming, whether it’s a career goal or just curiosity. It covers storing values in variables, using functions to manipulate those variables, and controlling the flow of those functions with repetition and conditionals.</description>
-    </item>
-    
-    <item>
-      <title>Intro to Web Development</title>
-      <link>https://mr.kurzius.net/classes/intro-to-web-dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mr.kurzius.net/classes/intro-to-web-dev/</guid>
-      <description>Intro to Web Development#2022–2023
-Course Description#Anyone who’s anyone has their own website, and this is where you can make yours. This one-semester course focuses on the front-end of web development, or the stuff that everyone sees. This includes structure with Hypertext Markup Language (HTML), style with Cascading Style Sheets (CSS) and will have students begin to build a portfolio of work for future employment.
-Units of Study#HTML, CSS and Forms Learn how to define the structure of a webpage with HTML and then style it with CSS.</description>
+      <guid>https://mr.kurzius.net/classes/calculus/</guid>
+      <description>Honors Calculus#2023–2024
+Course Description#Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You&amp;rsquo;ll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions.
+Units of Study#1 Limits and Continuity Explore how limits allow solving problems involving change and to better understand mathematical reasoning about functions.</description>
     </item>
     
     <item>
@@ -67,26 +58,6 @@ Graduation Assessment Requirements Explained#Aside from passing courses and ea
       <description>Summer Work 2023#All the work below is recommended, but not required.
 Algebra I/Honors Calculus#Work through the appropriate Get Ready course on Khan Academy. I suggest starting with the quizzes to see where you need work.
 Get ready for Algebra I Get ready for Calculus AP Computer Science A#Work through the first two units in Carnegie Mellon&amp;rsquo;s CS1: Intro to Programming. That link will take you to registration page with a code prefilled.</description>
-    </item>
-    
-    <item>
-      <title>Technology Applications &amp; Design I</title>
-      <link>https://mr.kurzius.net/classes/tech-apps-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mr.kurzius.net/classes/tech-apps-1/</guid>
-      <description>Technology Applications &amp;amp; Design I#Course Description#This course allows students to proceed through hands-on learning that will include design and problem solving activities. Students will use the engineering process to identify requirements and restrictions of a problem, design a solution, build it and determine if it solves that problem. The course will also have students look at engineering career paths along with technology’s impact on society.</description>
-    </item>
-    
-    <item>
-      <title>Yearbook Publishing</title>
-      <link>https://mr.kurzius.net/classes/yearbook-publishing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mr.kurzius.net/classes/yearbook-publishing/</guid>
-      <description>Yearbook Publishing#2021–2022
-Course Description#This course is designed to teach students to apply the basic principles of journalism, graphic design and page layout in the production of the high school’s yearbook, Valorem. Students will also gain computer experience through the utilization of desktop publishing software. Additionally, students will become proficient at small business operations in the sales and marketing of these publications.
-Topics#Reporting and Writing How to conduct good interviews and then turn them into a compelling story.</description>
     </item>
     
   </channel>

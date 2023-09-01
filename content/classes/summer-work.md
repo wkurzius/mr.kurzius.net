@@ -1,5 +1,6 @@
 ---
 title: "Summer Work"
+draft: false
 ---
 
 # Summer Work 2023

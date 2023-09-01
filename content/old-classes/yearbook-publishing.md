@@ -1,5 +1,6 @@
 ---
 title: "Yearbook Publishing"
+draft: true
 ---
 
 # Yearbook Publishing

@@ -1,5 +1,6 @@
 ---
 title: "AP Computer Science A"
+draft: false
 ---
 
 # AP Computer Science A
@@ -47,7 +48,8 @@ This course will use the curriculum from [Project STEM](https://projectstem.org/
 
 Also ...
 
-- Exams are worth 60% of your grade, quizzes and major assignments 30%, and coding activities 10% 
+- Exams are worth 60% of your grade, quizzes and major assignments 30%, and coding activities 10%
+- Late work loses two percentage points per day with a floor of 70%
 - The official gradebook will exist on Canvas, with Genesis only having the overall grade
 - Ask your classmates first when you have a question about the material
 - If you wish to install Java on your own machine, I recommend [Adoptium's latest LTS release](https://adoptium.net/)

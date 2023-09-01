@@ -1,5 +1,6 @@
 ---
 title: "Math Strategies"
+draft: false
 ---
 
 # Math Strategies

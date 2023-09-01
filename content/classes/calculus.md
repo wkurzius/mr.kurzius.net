@@ -41,19 +41,18 @@ The AP exams is 3 hours and 15 minute long and include 45 multiple-choice questi
 : Make mathematical connections that will allow solving a wide range of problems involving net change over an interval of time and to find areas of regions or volumes of solids defined using functions.
 
 ## Miscellaneous
-We will use the book _Calculus: Graphical, Numerical, Algebraic_ (AP ed., 5th ed.) as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc) course. I suggest reviewing the latter prior to any new chapter.
+<!--We will use the book _Calculus: Graphical, Numerical, Algebraic_ (AP ed., 5th ed.) as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc) course. I suggest reviewing the latter prior to any new chapter.-->
 
-You will also have access to TI-84 Plus calculators in class, and an emulator of the same is on your Chromebooks. Purchasing your own is not a bad idea if you have the means, but *not* required in any way shape or form. I still have a TI-89 from my freshman year of college over 20 years ago, so it’s worth considering if you anticipate using it after this course.
+You will have access to TI-84 Plus calculators in class, and an emulator of the same is on your Chromebooks. Purchasing your own is not a bad idea if you have the means, but *not* required in any way shape or form. I still have a TI-89 from my freshman year of college over 20 years ago, so it’s worth considering if you anticipate using it after this course.
 
 If you intend to purchase a calculator and take the AP exam, see [this list of acceptable calculators from College Board](https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies#list). You want calculators with an asterisk after their name.
 
 Also ...
 
 - Grading is point-based. Homework assignments are worth 1 point, quizzes 10 points and exams 25.
-- Homework is due at the end of the chapter, but zeroes will go in the grade book in the meantime
-- Late homework loses two percentage points per day with a floor of 70%
-- Ask your classmates first if you have a question
-- Please pick up a piece of garbage on your way out of the classroom
+- Late work loses two percentage points per day with a floor of 70%
+- The official gradebook will exist on Canvas, with Genesis only having the overall grade
+- Ask your classmates first when you have a question about the material
 
 ## Further Reading
 - [Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)

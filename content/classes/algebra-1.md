@@ -1,7 +1,7 @@
 ---
 title: "Algebra I"
 math: true
-draft: true
+draft: false
 ---
 
 # Algebra I

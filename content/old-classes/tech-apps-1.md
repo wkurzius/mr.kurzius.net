@@ -1,5 +1,6 @@
 ---
 title: "Technology Applications & Design I"
+draft: true
 ---
 
 # Technology Applications & Design I
