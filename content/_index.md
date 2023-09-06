@@ -18,7 +18,7 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 |  4   | -                     |      -       |
 |  5   | Algebra I             |      30      |
 |  6   | Math Strategies       |      47      |
-|  7   | AP Computer Science A | Media Center |
+|  7   | AP Computer Science A |      48      |
 |  8   | -                     |      -       |
 |  9   | -                     |      -       |
 
