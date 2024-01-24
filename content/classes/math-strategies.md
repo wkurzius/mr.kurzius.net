@@ -9,7 +9,6 @@ _2023–2024_
 ## Course Description
 Students who have been identified as needing additional support in mathematics will be recommended for and placed into the Mathematics Strategies course. This course is designed to prepare students to meet the current state graduation requirements established by the NJ Department of Education. Placement is determined by the administration. Students will be graded as Pass/Fail.
 
-
 ## Graduation Assessment Requirements Explained
 Aside from passing courses and earning credits, to graduate high school you must also demonstrate proficiency in both English and math on an approved assessment. There are a number of approved assessments (e.g. NJGPA, SAT, Accuplacer, etc.), but also a portfolio option. Meeting the threshold on any one these assessments will allow you to graduate. 
 
