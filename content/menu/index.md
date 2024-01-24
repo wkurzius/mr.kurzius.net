@@ -8,7 +8,6 @@ bookSearchExclude: true
 - [{{<fa fas fa-home>}} Home]({{<relref "/">}})
 
 **Classes**
-<!-- - [Summer Work]({{<relref "classes/summer-work">}}) -->
 - Algebra I
 - [AP Computer Science A]({{<relref "classes/ap-csa">}})
 - [Honors Calculus]({{<relref "classes/calculus">}})

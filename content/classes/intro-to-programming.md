@@ -1,6 +1,6 @@
 ---
 title: "Intro to Programming"
-draft: true
+draft: false
 ---
 
 # Intro to Programming
