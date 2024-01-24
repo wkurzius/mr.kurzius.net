@@ -4,7 +4,7 @@ draft: true
 ---
 
 # Intro to Programming
-_2022–2023_
+_2023–2024_
 
 ## Course Description
 
@@ -19,7 +19,7 @@ Functions, Mouse Events and Properties
 : Programs in your programs. Write code that can process information and be easily reused.
 
 Mouse Motion Events, Conditionals, and Helper Functions
-: Your first taste of artificial intellgence. Teach your program to make decisions by telling it "if this, do that".
+: Your first taste of artificial intelligence. Teach your program to make decisions by telling it "if this, do that".
 
 More Conditionals, Key Events, and Methods
 : Now it's "if this, do that or else".
@@ -30,11 +30,21 @@ Complex Conditionals and More Key Events
 Groups, Step Events, and Motion
 : Moving pictures, but I like to call them move-ies.
 
-## Course Format and Miscellaneous
+## Course Format and Grading
 This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS Academy](https://academy.cs.cmu.edu). It provides an online version of the lessons, assignments and resources. The course is mostly self-paced, so students can learn at their own speed. Because of this, grading is based on the amount of the course students complete with earlier units being worth much more than later ones.
 
-Also ...
+The units themselves are graded based on points, with quizzes and major assignments making up the bulk of the grade.
 
-- There is no final exam
-- Question? Ask your classmates first.
-- Pick up a piece of garbage on your way out of the classroom
+### Exercises
+
+Worth roughly 25% of a unit's grade and are broken into groups. Each exercise within a group has a point value based on difficulty, and each group has a point goal. To earn full credit for a group of exercises, you only need to complete enough exercises to hit the goal. You can do more if you wish, and the extra points will be counted, but not past 100% for the unit.
+
+### Creative Tasks
+
+Open-ended assignments that happen once per unit and are each worth 30 points. Your goal is to take concepts from that unit—along with any preceding ones—and create something with it. You are mostly free to make what you want, but I do need to approve it first so I know you are using concepts from the unit.
+
+Along with your creation’s code, you must submit a reflection document to earn any credit. The reflection you need to submit in Canvas.
+
+### Quizzes
+
+Each unit has two quizzes worth 40 points total. One is labeled as practice, and you are encouraged to review your performance on it and brush up on anything you missed before taking the other quiz.
