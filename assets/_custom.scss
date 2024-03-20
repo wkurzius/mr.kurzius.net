@@ -41,3 +41,7 @@ div.avatar {
 	font-size: small;
 	font-style: italic;
 }
+
+.bell-schedules-table td:nth-child(2n+1), .bell-schedules-table th:nth-child(2n+1) {
+	border-right-width: 5px;
+}

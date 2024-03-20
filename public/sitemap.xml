@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mr.kurzius.net/</loc>
+    <lastmod>2021-05-05T10:20:37-04:00</lastmod>
+  </url><url>
     <loc>https://mr.kurzius.net/menu/</loc>
     <lastmod>2021-05-05T10:20:37-04:00</lastmod>
   </url><url>
@@ -17,13 +20,13 @@
   </url><url>
     <loc>https://mr.kurzius.net/clubs/</loc>
   </url><url>
-    <loc>https://mr.kurzius.net/</loc>
-  </url><url>
     <loc>https://mr.kurzius.net/classes/calculus/</loc>
   </url><url>
     <loc>https://mr.kurzius.net/classes/intro-to-programming/</loc>
   </url><url>
     <loc>https://mr.kurzius.net/classes/math-strategies/</loc>
+  </url><url>
+    <loc>https://mr.kurzius.net/old-classes/</loc>
   </url><url>
     <loc>https://mr.kurzius.net/classes/summer-work/</loc>
   </url><url>
