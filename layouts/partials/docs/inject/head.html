@@ -1,3 +1,5 @@
 <link href="/css/all.css" rel="stylesheet">
 
-{{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
+{{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+{{ end }}
