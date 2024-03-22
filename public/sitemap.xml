@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mr.kurzius.net/</loc>
     <lastmod>2021-05-05T10:20:37-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/</loc>
+    <loc>https://mr.kurzius.net/menu/</loc>
     <lastmod>2021-05-05T10:20:37-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/classes/algebra-1/</loc>
+    <loc>https://mr.kurzius.net/classes/algebra-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/ap-csa/</loc>
+    <loc>https://mr.kurzius.net/classes/ap-csa/</loc>
   </url><url>
-    <loc>http://localhost:1313/bell-schedules/</loc>
+    <loc>https://mr.kurzius.net/bell-schedules/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mr.kurzius.net/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/</loc>
+    <loc>https://mr.kurzius.net/classes/</loc>
   </url><url>
-    <loc>http://localhost:1313/clubs/</loc>
+    <loc>https://mr.kurzius.net/clubs/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/calculus/</loc>
+    <loc>https://mr.kurzius.net/classes/calculus/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/intro-to-programming/</loc>
+    <loc>https://mr.kurzius.net/classes/intro-to-programming/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/math-strategies/</loc>
+    <loc>https://mr.kurzius.net/classes/math-strategies/</loc>
   </url><url>
-    <loc>http://localhost:1313/old-classes/</loc>
+    <loc>https://mr.kurzius.net/old-classes/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/summer-work/</loc>
+    <loc>https://mr.kurzius.net/classes/summer-work/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mr.kurzius.net/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/clubs/yearbook-club/</loc>
+    <loc>https://mr.kurzius.net/clubs/yearbook-club/</loc>
   </url>
 </urlset>
