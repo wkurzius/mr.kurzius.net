@@ -9,9 +9,19 @@ BookTheme = 'dark'
 BookToc = false
 BookDateFormat = 'January 2, 2006'
 BookSearch = false
+math = true
 
 [markup.goldmark.renderer]
 unsafe = true
 
 [markup.goldmark.parser.attribute]
 block = true
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)']]
+
+

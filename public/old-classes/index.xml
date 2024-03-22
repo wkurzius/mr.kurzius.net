@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Old-Classes on Mr. Kurzius</title>
-    <link>https://mr.kurzius.net/old-classes/</link>
+    <link>http://localhost:1313/old-classes/</link>
     <description>Recent content in Old-Classes on Mr. Kurzius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mr.kurzius.net/old-classes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/old-classes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
