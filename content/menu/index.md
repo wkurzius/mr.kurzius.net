@@ -6,6 +6,7 @@ bookSearchExclude: true
 ---
 
 - [{{<fa fas fa-home>}} Home]({{<relref "/">}})
+- [Summer Work 2024 ]({{<relref "classes/summer-work">}})
 
 **Classes**
 - Algebra I

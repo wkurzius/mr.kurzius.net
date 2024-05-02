@@ -1,7 +1,7 @@
 baseURL = "https://mr.kurzius.net/"
 languageCode = "en-us"
 title = "Mr. Kurzius"
-theme = "book"
+theme = "hugo-book"
 
 [params]
 BookMenuBundle = '/menu'
