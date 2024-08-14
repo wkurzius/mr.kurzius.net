@@ -2,10 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Old-Classes on Mr. Kurzius</title>
-    <link>https://mr.kurzius.net/old-classes/</link>
+    <link>http://localhost:1313/old-classes/</link>
     <description>Recent content in Old-Classes on Mr. Kurzius</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://mr.kurzius.net/old-classes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/old-classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algebra I</title>
+      <link>http://localhost:1313/old-classes/algebra-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/old-classes/algebra-1/</guid>
+      <description>Algebra I&#xD;#&#xD;2023–2024&#xA;Course Description&#xD;#&#xD;This course focuses on deepening understanding of linear and exponential relationships by contrasting them with each other. Students will apply linear models to data that exhibit a linear trend, and also engage in methods for analyzing, solving, and using quadratic functions.&#xA;Units of Study&#xD;#&#xD;1 Limits and Continuity Explore how limits allow solving problems involving change and to better understand mathematical reasoning about functions.</description>
+    </item>
+    <item>
+      <title>AP Computer Science A</title>
+      <link>http://localhost:1313/old-classes/ap-csa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/old-classes/ap-csa/</guid>
+      <description>AP Computer Science A&#xD;#&#xD;2023–2024&#xA;Course Description&#xD;#&#xD;AP Computer Science A introduces students to computer science through programming. Fundamental topics in this course include the design of solutions to problems, the use of data structures to organize large sets of data, the development and implementation of algorithms to process data and discover new information, the analysis of potential solutions, and the ethical and social implications of computing systems.</description>
+    </item>
+    <item>
+      <title>Math Strategies</title>
+      <link>http://localhost:1313/old-classes/math-strategies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/old-classes/math-strategies/</guid>
+      <description>Math Strategies&#xD;#&#xD;2023–2024&#xA;Course Description&#xD;#&#xD;Students who have been identified as needing additional support in mathematics will be recommended for and placed into the Mathematics Strategies course. This course is designed to prepare students to meet the current state graduation requirements established by the NJ Department of Education. Placement is determined by the administration. Students will be graded as Pass/Fail.&#xA;Graduation Assessment Requirements Explained&#xD;#&#xD;Aside from passing courses and earning credits, to graduate high school you must also demonstrate proficiency in both English and math on an approved assessment.</description>
+    </item>
   </channel>
 </rss>

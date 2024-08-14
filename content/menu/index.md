@@ -9,12 +9,13 @@ bookSearchExclude: true
 - [Summer Work 2024 ]({{<relref "classes/summer-work">}})
 
 **Classes**
-- Algebra I
-- [AP Computer Science A]({{<relref "classes/ap-csa">}})
-- [Honors Calculus]({{<relref "classes/calculus">}})
+- [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}})
+- [AP Calculus]({{<relref "classes/calculus">}})
+- [College Prep Math]({{<relref "classes/college-prep-math">}})
 - [Intro to Programming]({{<relref "classes/intro-to-programming">}})
+- [Intro to Web Development]({{<relref "classes/intro-to-web-dev">}})
+- [Probability and Statistics]({{<relref "classes/prob-and-stats">}})
 <!-- TODO Calc book update-->
-- [Math Strategies]({{<relref "classes/math-strategies">}})
 
 **Clubs**
 - Esports

@@ -1,10 +1,9 @@
 ---
 title: "Intro to Programming"
-draft: false
 ---
 
 # Intro to Programming
-_2023–2024_
+_2024–2025_
 
 ## Course Description
 
