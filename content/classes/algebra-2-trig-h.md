@@ -11,31 +11,32 @@ This course will explore analyzing equations and inequalities, graphing linear r
 
 ## Units of Study
 1 Functions and Inequalities
-: 
+: Students will review function notation, parent functions (linear, quadratic, absolute value, and square root) and their transformations graphically and algebraically. Additionally, they will examine domain and range (graphically and algebraically), graph linear inequalities, use interval notation to write an inequality’s solution, and graph piecewise functions by applying prior knowledge of functions. These are all prerequisite skills needed to continue with the Algebra II curriculum. 
 
 2 Quadratics Equations: Graphing and Solving
-: 
+: Students will review graphing quadratic functions using transformations, solving with graphing, factoring and the zero product property, completing the square and the quadratic formula. Students will learn what a complex number is and perform basic operations with complex numbers (add, subtract, multiply, and divide using the conjugate).
+
 
 3 Higher Order Polynomial Functions
-: 
+: Students will perform operations (add, subtract, multiply and divide) with higher order polynomials using the appropriate methods i.e. synthetic division and long  division. Students will also graph higher order polynomials using the intercepts, leading coefficient and end behavior as well as read a graph to determine intercepts, leading coefficient, end behavior and domain and range. Students will graph by hand and with technology. Students will use the rational root theorem to solve for the x intercepts (zeros/roots) of higher order polynomial functions.
 
 4 Exponential and Logarithmic Functions
-: 
+: Students will be introduced to geometric sequences and series and compare them to arithmetic sequences and series. Students will review the properties of exponents including negative and fractional exponents. Students will also solve and graph problems involving exponential growth and decay. Students will be able to define an inverse function and find the inverse of a given function algebraically and graphically. Students will then apply the properties of exponents to the properties of logarithms. Students will define a logarithm and its relationship to an exponential function. Students will expand and condense logarithms  as well as solve problems with logarithms. Students will define the natural logarithm and use it to solve continuous interest word problems. 
 
 5 Rational Functions
-: 
+: Students will graph rational functions by identifying holes, asymptotes, and intercepts as well as the end behavior of the function. Students will also add, subtract, multiply, and divide with rational expressions as well as equations. 
 
 6 Radical Functions
-: 
+: Students will graph radical functions. Students will add, subtract, multiply and divide with radical expressions as well as solve radical equations. Students will also simplify radical expressions written in terms of fractional exponents.
 
 7 Right Triangle Trigonometry and The Unit Circle
-: 
+: Students will learn and review the pythagorean theorem, applying the pythagorean theorem to solve for missing sides and angles, apply special right triangles (45-45-90 and 30-60-90), and identify and apply trigonometric ratios of right triangles. Students will apply the special right triangles to a circle with a radius of one unit to identify exact trigonometric values.
 
 8 Other Triangle Trigonometry 
-: 
+: Students use the law of sines and cosines to solve missing sides or angles in non-right triangles.
 
 9 Introduction to Graphing with Trigonometric Functions
-: 
+: Students will apply the unit circle and right triangle trigonometry to graph the sine and cosine curves. Students will also apply the graphs of sine and cosine to real world problems.
 
 ## Grading
 - The official gradebook will exist on Canvas, with Genesis only having the overall grade.
@@ -44,6 +45,4 @@ This course will explore analyzing equations and inequalities, graphing linear r
 - Late work will receive only partial credit.
 
 ## Miscellaneous
-We will use the book _Calculus: Graphical, Numerical, Algebraic_ (AP ed., 5th ed.) as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc) course. I suggest reviewing the latter prior to any new chapter.
-
-You will also have access to TI-84 Plus calculators in class, and an emulator of the same is on your Chromebooks. Purchasing your own is not a bad idea if you have the means, but *not* required in any way shape or form. I still have a TI-89 from my freshman year of college over 20 years ago, so it’s worth considering if you anticipate using it after this course. For a list of acceptable calculators, see [this list from College Board](https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies#list). You want calculators with an asterisk after their name.
+We will use the book _enVision Algebra 2 (2018 ed.)_ as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [Algebra 2](https://www.khanacademy.org/math/algebra2) and a [Trigonometry](https://www.khanacademy.org/math/trigonometry) course course. There is also a [Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-for-algebra-ii) course I suggest reviewing to get you up to speed.

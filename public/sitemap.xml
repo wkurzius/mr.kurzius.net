@@ -8,11 +8,13 @@
     <loc>http://localhost:1313/menu/</loc>
     <lastmod>2021-05-05T10:20:37-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/classes/algebra-2/</loc>
-  </url><url>
     <loc>http://localhost:1313/old-classes/algebra-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/ap-csa/</loc>
+    <loc>http://localhost:1313/classes/algebra-2-trig-h/</loc>
+  </url><url>
+    <loc>http://localhost:1313/classes/calculus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/old-classes/ap-csa/</loc>
   </url><url>
     <loc>http://localhost:1313/bell-schedules/</loc>
   </url><url>
@@ -22,13 +24,17 @@
   </url><url>
     <loc>http://localhost:1313/clubs/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/calculus/</loc>
+    <loc>http://localhost:1313/classes/college-prep-math/</loc>
   </url><url>
     <loc>http://localhost:1313/classes/intro-to-programming/</loc>
   </url><url>
-    <loc>http://localhost:1313/classes/math-strategies/</loc>
+    <loc>http://localhost:1313/classes/intro-to-web-dev/</loc>
+  </url><url>
+    <loc>http://localhost:1313/old-classes/math-strategies/</loc>
   </url><url>
     <loc>http://localhost:1313/old-classes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/classes/prob-and-stats/</loc>
   </url><url>
     <loc>http://localhost:1313/classes/summer-work/</loc>
   </url><url>
