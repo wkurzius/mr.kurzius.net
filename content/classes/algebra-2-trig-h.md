@@ -11,14 +11,13 @@ This course will explore analyzing equations and inequalities, graphing linear r
 
 ## Units of Study
 1 Functions and Inequalities
-: Students will review function notation, parent functions (linear, quadratic, absolute value, and square root) and their transformations graphically and algebraically. Additionally, they will examine domain and range (graphically and algebraically), graph linear inequalities, use interval notation to write an inequality’s solution, and graph piecewise functions by applying prior knowledge of functions. These are all prerequisite skills needed to continue with the Algebra II curriculum. 
+: Mostly a review of function notation, parent functions, their transformations and various other Algebra I topics.
 
 2 Quadratics Equations: Graphing and Solving
-: Students will review graphing quadratic functions using transformations, solving with graphing, factoring and the zero product property, completing the square and the quadratic formula. Students will learn what a complex number is and perform basic operations with complex numbers (add, subtract, multiply, and divide using the conjugate).
-
+: Along with graphing quadratics, this unit focuses on various strategies for solving them. This includes factoring and the zero product property, completing the square and the quadratic formula. 
 
 3 Higher Order Polynomial Functions
-: Students will perform operations (add, subtract, multiply and divide) with higher order polynomials using the appropriate methods i.e. synthetic division and long  division. Students will also graph higher order polynomials using the intercepts, leading coefficient and end behavior as well as read a graph to determine intercepts, leading coefficient, end behavior and domain and range. Students will graph by hand and with technology. Students will use the rational root theorem to solve for the x intercepts (zeros/roots) of higher order polynomial functions.
+: All things related to working with polynomials. This includes synthetic division and long division, and graph analysis.
 
 4 Exponential and Logarithmic Functions
 : Students will be introduced to geometric sequences and series and compare them to arithmetic sequences and series. Students will review the properties of exponents including negative and fractional exponents. Students will also solve and graph problems involving exponential growth and decay. Students will be able to define an inverse function and find the inverse of a given function algebraically and graphically. Students will then apply the properties of exponents to the properties of logarithms. Students will define a logarithm and its relationship to an exponential function. Students will expand and condense logarithms  as well as solve problems with logarithms. Students will define the natural logarithm and use it to solve continuous interest word problems. 

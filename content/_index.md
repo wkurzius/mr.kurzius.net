@@ -14,7 +14,7 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 | :--: | -------------------------- | :--: |
 |  1   | -                          |  -   |
 |  2   | AP Calculus AB             |  31  |
-|  3   | Probability & Statistics   |  6   |
+|  3   | Probability & Statistics   |  8   |
 |  4   | -                          |  -   |
 |  5   | Intro to Programming       |  31  |
 |  6   | Algebra II and Trig Honors |  31  |
