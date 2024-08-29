@@ -23,3 +23,9 @@ This course will consist of a broad coverage of topics in applied statistics and
 
 4 Randomness and Probability
 : This last unit focuses on predicting events using probability laws. This includes events that are independent of each other and those depend on the occurrence of another event.
+
+## Grading
+- The official gradebook will exist on Canvas, with Genesis only having the overall grade.
+- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and tests 50% of your marking period grade. 
+- Quizzes will happen after every two or three sections, with major tests once a marking period.
+- Late work will receive only partial credit.
