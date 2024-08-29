@@ -14,7 +14,7 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 | :--: | --------------------------------------------------------------------- | :-------: |
 |  1   | -                                                                     |     -     |
 |  2   | [AP Calculus]({{<relref "classes/calculus">}})                        |    31     |
-|  3   | Probability & Statistics                                              |     8     |
+|  3   | [Probability & Statistics]({{<relref "classes/prob-and-stats">}})                                              |     8     |
 |  4   | Duty                                                                  | Gym Steps |
 |  5   | [Intro to Programming]({{<relref "classes/intro-to-programming">}})   |    31     |
 |  6   | [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}}) |    31     |

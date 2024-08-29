@@ -16,8 +16,7 @@ bookSearchExclude: true
 - [Intro to Programming]({{<relref "classes/intro-to-programming">}})
 <!--- [Intro to Web Development]({{/*<relref "classes/intro-to-web-dev">*/}})-->
 - Intro to Web Development
-<!--- [Probability and Statistics]({{/*<relref "classes/prob-and-stats">*/}})-->
-- Probability and Statistics
+- [Probability & Statistics]({{<relref "classes/prob-and-stats">}})
 <!-- TODO Calc book update-->
 
 **Clubs**
