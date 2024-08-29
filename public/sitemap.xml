@@ -16,6 +16,8 @@
   </url><url>
     <loc>http://localhost:1313/old-classes/ap-csa/</loc>
   </url><url>
+    <loc>http://localhost:1313/old-classes/ap-csp/</loc>
+  </url><url>
     <loc>http://localhost:1313/bell-schedules/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -32,6 +34,8 @@
   </url><url>
     <loc>http://localhost:1313/old-classes/math-strategies/</loc>
   </url><url>
+    <loc>http://localhost:1313/clubs/esports/</loc>
+  </url><url>
     <loc>http://localhost:1313/old-classes/</loc>
   </url><url>
     <loc>http://localhost:1313/classes/prob-and-stats/</loc>
@@ -40,6 +44,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/old-classes/tech-apps-1/</loc>
+  </url><url>
     <loc>http://localhost:1313/clubs/yearbook-club/</loc>
+  </url><url>
+    <loc>http://localhost:1313/old-classes/yearbook-publishing/</loc>
   </url>
 </urlset>

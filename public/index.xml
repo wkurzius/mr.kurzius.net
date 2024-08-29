@@ -44,6 +44,13 @@
       <description>AP Computer Science A&#xD;#&#xD;2023–2024&#xA;Course Description&#xD;#&#xD;AP Computer Science A introduces students to computer science through programming. Fundamental topics in this course include the design of solutions to problems, the use of data structures to organize large sets of data, the development and implementation of algorithms to process data and discover new information, the analysis of potential solutions, and the ethical and social implications of computing systems.</description>
     </item>
     <item>
+      <title>AP Computer Science Principles</title>
+      <link>http://localhost:1313/old-classes/ap-csp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/old-classes/ap-csp/</guid>
+      <description>AP Computer Science Principles&#xD;#&#xD;2022–2023&#xA;Summer Work&#xD;#&#xD;Students that want a jump start on the material should check out the resources and exercises on Khan Academy. I recommend completing at least the Algorithms unit.&#xA;Course Description&#xD;#&#xD;Computer Science Principles introduces students to the foundational concepts of computer science and challenges them to explore how computing and technology can impact the world. More than a traditional introduction to programming, it is a rigorous, engaging, and approachable course that explores many of the foundational ideas of computing so all students understand how these concepts are transforming our world.</description>
+    </item>
+    <item>
       <title>Bell Schedules</title>
       <link>http://localhost:1313/bell-schedules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,6 +86,13 @@
       <description>Math Strategies&#xD;#&#xD;2023–2024&#xA;Course Description&#xD;#&#xD;Students who have been identified as needing additional support in mathematics will be recommended for and placed into the Mathematics Strategies course. This course is designed to prepare students to meet the current state graduation requirements established by the NJ Department of Education. Placement is determined by the administration. Students will be graded as Pass/Fail.&#xA;Graduation Assessment Requirements Explained&#xD;#&#xD;Aside from passing courses and earning credits, to graduate high school you must also demonstrate proficiency in both English and math on an approved assessment.</description>
     </item>
     <item>
+      <title>MHS Esports</title>
+      <link>http://localhost:1313/clubs/esports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/clubs/esports/</guid>
+      <description>&#xD;MHS Esports&#xD;#&#xD;</description>
+    </item>
+    <item>
       <title>Probability and Statistics</title>
       <link>http://localhost:1313/classes/prob-and-stats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -93,11 +107,25 @@
       <description>&#xD;Summer Work 2024&#xD;#&#xD;The work below is recommended, but not required.&#xA;AP Calculus and Algebra II&#xD;#&#xD;Work through the appropriate Get Ready course on Khan Academy. Each has a Course Challenge that will tell you where you need to focus.&#xA;Get ready for AP Calculus Get ready for Algebra 2 </description>
     </item>
     <item>
+      <title>Technology Applications &amp; Design I</title>
+      <link>http://localhost:1313/old-classes/tech-apps-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/old-classes/tech-apps-1/</guid>
+      <description>Technology Applications &amp;amp; Design I&#xD;#&#xD;Course Description&#xD;#&#xD;This course allows students to proceed through hands-on learning that will include design and problem solving activities. Students will use the engineering process to identify requirements and restrictions of a problem, design a solution, build it and determine if it solves that problem. The course will also have students look at engineering career paths along with technology’s impact on society.</description>
+    </item>
+    <item>
       <title>Yearbook Club</title>
       <link>http://localhost:1313/clubs/yearbook-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/clubs/yearbook-club/</guid>
       <description>Yearbook Club&#xD;#&#xD;2021–2022&#xA;Yearbook Club is for students who wish to contribute to Valorem but are not enrolled in Yearbook Publishing. All are welcome and the only requirement for membership is to be a regular contributor. That means conducting interviews or submitting photos that document the who and what of the school year.&#xA;If you&amp;rsquo;re interested, you can visit me in room 47 or reach out through email. Meetings will happen based on individual availability.</description>
+    </item>
+    <item>
+      <title>Yearbook Publishing</title>
+      <link>http://localhost:1313/old-classes/yearbook-publishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/old-classes/yearbook-publishing/</guid>
+      <description>Yearbook Publishing&#xD;#&#xD;2021–2022&#xA;Course Description&#xD;#&#xD;This course is designed to teach students to apply the basic principles of journalism, graphic design and page layout in the production of the high school’s yearbook, Valorem. Students will also gain computer experience through the utilization of desktop publishing software. Additionally, students will become proficient at small business operations in the sales and marketing of these publications.&#xA;Topics&#xD;#&#xD;Reporting and Writing How to conduct good interviews and then turn them into a compelling story.</description>
     </item>
   </channel>
 </rss>

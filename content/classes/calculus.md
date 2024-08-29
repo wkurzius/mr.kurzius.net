@@ -1,6 +1,7 @@
 ---
 title: "AP Calculus AB"
 math: true
+draft: false
 ---
 
 # AP Calculus AB

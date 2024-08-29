@@ -10,17 +10,17 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 
 ### Schedule for Semester 1, 2024–25
 
-| Per. | Class                      | Room |
-| :--: | -------------------------- | :--: |
-|  1   | -                          |  -   |
-|  2   | AP Calculus AB             |  31  |
-|  3   | Probability & Statistics   |  8   |
-|  4   | -                          |  -   |
-|  5   | Intro to Programming       |  31  |
-|  6   | Algebra II and Trig Honors |  31  |
-|  7L  | -                          |  -   |
-|  8   | Algebra II and Trig Honors |  31  |
-|  9   | -                          |  -   |
+| Per. | Class                                                                 |   Room    |
+| :--: | --------------------------------------------------------------------- | :-------: |
+|  1   | -                                                                     |     -     |
+|  2   | [AP Calculus]({{<relref "classes/calculus">}})                        |    31     |
+|  3   | Probability & Statistics                                              |     8     |
+|  4   | Duty                                                                  | Gym Steps |
+|  5   | [Intro to Programming]({{<relref "classes/intro-to-programming">}})   |    31     |
+|  6   | [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}}) |    31     |
+|  7L  | -                                                                     |     -     |
+|  8   | [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}}) |    31     |
+|  9   | Duty                                                                  |  Library  |
 
 ## About
 
@@ -28,8 +28,8 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 ![Mr. Kurzius](images/avatar.jpg)
 {{</div>}}
 
-I’m in my twentieth year of teaching, all in Manville. This year my courses include Algebra II and Trigonometry, AP Calculus AB, Probability and Statistics, and Intro to Programming. I'm also the advisor for the school's Esports program. I have a degree in Computer Science from TCNJ and I’m certified in NJ to teach computer science and math.
+This is my twentieth year of teaching, and all of them have been here in Manville. This year my courses include Algebra II and Trigonometry, AP Calculus AB, Probability & Statistics, and Intro to Programming. The latter two are in the first semester only and become College Prep Math and Intro to Web Development in the second one. I'm also the advisor for the school's Esports program. I have a degree in Computer Science from TCNJ and I’m certified in NJ to teach computer science and math.
 
-I’m interested in most things related to computers, photography, and if you ever need to distract me from doing my job, ask me something about video games.
+I’m interested in most things related to computers, and if you ever need to distract me from doing my job ask me something about video games.
 
-My wife is also a teacher at Manville; she teaches eighth grade science at ABIS. Our daughter Lucy is twelve, ~~but doesn’t have a teaching job yet~~ and is a junior taekwondo instructor.
+My wife is also a teacher at Manville, and she teaches eighth grade science at ABIS and Forensics in the high school. Our daughter Lucy is twelve ~~but doesn’t have a teaching job yet~~ and is a junior taekwondo instructor.

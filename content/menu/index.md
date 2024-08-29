@@ -11,10 +11,13 @@ bookSearchExclude: true
 **Classes**
 - [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}})
 - [AP Calculus]({{<relref "classes/calculus">}})
-- [College Prep Math]({{<relref "classes/college-prep-math">}})
+<!--- [College Prep Math]({{/*<relref "classes/college-prep-math">*/}})-->
+- College Prep Math
 - [Intro to Programming]({{<relref "classes/intro-to-programming">}})
-- [Intro to Web Development]({{<relref "classes/intro-to-web-dev">}})
-- [Probability and Statistics]({{<relref "classes/prob-and-stats">}})
+<!--- [Intro to Web Development]({{/*<relref "classes/intro-to-web-dev">*/}})-->
+- Intro to Web Development
+<!--- [Probability and Statistics]({{/*<relref "classes/prob-and-stats">*/}})-->
+- Probability and Statistics
 <!-- TODO Calc book update-->
 
 **Clubs**

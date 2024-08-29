@@ -1,5 +1,6 @@
 ---
 title: "Intro to Programming"
+draft: false
 ---
 
 # Intro to Programming
@@ -30,7 +31,7 @@ Groups, Step Events, and Motion
 : Moving pictures, but I like to call them move-ies.
 
 ## Course Format and Grading
-This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS Academy](https://academy.cs.cmu.edu). It provides an online version of the lessons, assignments and resources. The course is mostly self-paced, so students can learn at their own speed. Because of this, grading is based on the amount of the course students complete with earlier units being worth much more than later ones.
+This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS Academy](https://academy.cs.cmu.edu). It provides an online version of the lessons, assignments, and resources. The course is mostly self-paced, so students can learn at their own speed. Because of this, grading is based on the amount of the course students complete with earlier units being worth much more than later ones.
 
 The units themselves are graded based on points, with quizzes and major assignments making up the bulk of the grade.
 
@@ -40,7 +41,7 @@ Worth roughly 25% of a unit's grade and are broken into groups. Each exercise wi
 
 ### Creative Tasks
 
-Open-ended assignments that happen once per unit and are each worth 30 points. Your goal is to take concepts from that unit—along with any preceding ones—and create something with it. You are mostly free to make what you want, but I do need to approve it first so I know you are using concepts from the unit.
+Open-ended assignments that happen once per unit and are each worth 30 points. Your goal is to take concepts from that unit—along with any preceding ones—and create something with it. You are mostly free to make what you want, but I do need to approve it first, so I know you are using concepts from the unit.
 
 Along with your creation’s code, you must submit a reflection document to earn any credit. The reflection you need to submit in Canvas.
 

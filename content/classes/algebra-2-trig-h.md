@@ -1,6 +1,7 @@
 ---
 title: "Algebra II and Trigonometry Honors"
 math: true
+draft: false
 ---
 
 # Algebra II and Trigonometry Honors
@@ -14,28 +15,28 @@ This course will explore analyzing equations and inequalities, graphing linear r
 : Mostly a review of function notation, parent functions, their transformations and various other Algebra I topics.
 
 2 Quadratics Equations: Graphing and Solving
-: Along with graphing quadratics, this unit focuses on various strategies for solving them. This includes factoring and the zero product property, completing the square and the quadratic formula. 
+: Along with graphing quadratics, this unit focuses on various strategies for solving them. This includes factoring and the zero-product property, completing the square and the quadratic formula. 
 
 3 Higher Order Polynomial Functions
 : All things related to working with polynomials. This includes synthetic division and long division, and graph analysis.
 
 4 Exponential and Logarithmic Functions
-: Students will be introduced to geometric sequences and series and compare them to arithmetic sequences and series. Students will review the properties of exponents including negative and fractional exponents. Students will also solve and graph problems involving exponential growth and decay. Students will be able to define an inverse function and find the inverse of a given function algebraically and graphically. Students will then apply the properties of exponents to the properties of logarithms. Students will define a logarithm and its relationship to an exponential function. Students will expand and condense logarithms  as well as solve problems with logarithms. Students will define the natural logarithm and use it to solve continuous interest word problems. 
+: You'll be introduced to geometric sequences and series, along with reviewing the properties of exponents to apply them to the properties of logarithms.
 
 5 Rational Functions
-: Students will graph rational functions by identifying holes, asymptotes, and intercepts as well as the end behavior of the function. Students will also add, subtract, multiply, and divide with rational expressions as well as equations. 
+: Learn how to graph rational functions by identifying holes, asymptotes, and intercepts as well as the end behavior of the function.
 
 6 Radical Functions
-: Students will graph radical functions. Students will add, subtract, multiply and divide with radical expressions as well as solve radical equations. Students will also simplify radical expressions written in terms of fractional exponents.
+: All about how to add, subtract, multiply and divide radical expressions as well as solve radical equations.
 
 7 Right Triangle Trigonometry and The Unit Circle
-: Students will learn and review the pythagorean theorem, applying the pythagorean theorem to solve for missing sides and angles, apply special right triangles (45-45-90 and 30-60-90), and identify and apply trigonometric ratios of right triangles. Students will apply the special right triangles to a circle with a radius of one unit to identify exact trigonometric values.
+: This starts with a review of concepts introduced in Geometry and earlier, but then moves into the trigonometric ratios of right triangles.
 
 8 Other Triangle Trigonometry 
-: Students use the law of sines and cosines to solve missing sides or angles in non-right triangles.
+: The law of sines and cosines and how to solve missing sides or angles in non-right triangles.
 
 9 Introduction to Graphing with Trigonometric Functions
-: Students will apply the unit circle and right triangle trigonometry to graph the sine and cosine curves. Students will also apply the graphs of sine and cosine to real world problems.
+: Graphing the sine and cosine curves along with applying them to real world problems.
 
 ## Grading
 - The official gradebook will exist on Canvas, with Genesis only having the overall grade.
@@ -44,4 +45,4 @@ This course will explore analyzing equations and inequalities, graphing linear r
 - Late work will receive only partial credit.
 
 ## Miscellaneous
-We will use the book _enVision Algebra 2 (2018 ed.)_ as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [Algebra 2](https://www.khanacademy.org/math/algebra2) and a [Trigonometry](https://www.khanacademy.org/math/trigonometry) course course. There is also a [Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-for-algebra-ii) course I suggest reviewing to get you up to speed.
+We will use the book _enVision Algebra 2 (2018 ed.)_ as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both [Algebra 2](https://www.khanacademy.org/math/algebra2) and [Trigonometry](https://www.khanacademy.org/math/trigonometry) courses. There is also a [Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-for-algebra-ii) course I suggest reviewing to get you up to speed.
