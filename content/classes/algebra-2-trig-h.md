@@ -40,9 +40,9 @@ This course will explore analyzing equations and inequalities, graphing linear r
 
 ## Grading
 - The official gradebook will exist on Canvas, with Genesis only having the overall grade.
-- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and tests 50% of your marking period grade. 
+- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and tests 50% of your marking period grade.
 - Quizzes will happen after every two or three sections, with major tests once a marking period.
 - Late work will receive only partial credit.
 
 ## Miscellaneous
-We will use the book _enVision Algebra 2 (2018 ed.)_ as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both [Algebra 2](https://www.khanacademy.org/math/algebra2) and [Trigonometry](https://www.khanacademy.org/math/trigonometry) courses. There is also a [Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-for-algebra-ii) course I suggest reviewing to get you up to speed.
+I will be teaching out of the book _enVision Algebra 2_, but the majority of your homework and assignments will be in IXL, so you won't have to carry around a copy of the textbook.
