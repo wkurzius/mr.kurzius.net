@@ -27,5 +27,5 @@ This course will consist of a broad coverage of topics in applied statistics and
 ## Grading
 - The official gradebook will exist on Canvas, with Genesis only having the overall grade.
 - Grading is point-based, though assignments are worth roughly 10%, class participation 20%, quizzes 30%, and tests 40% of your marking period grade. 
-- Quizzes will happen after every two or three sections, with major tests once a marking period.
+- Quizzes will happen after every two or three sections, with major tests twice a marking period.
 - Late work will receive only partial credit.

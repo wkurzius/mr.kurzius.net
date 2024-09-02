@@ -28,7 +28,7 @@ You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077
 ![Mr. Kurzius](images/avatar.jpg)
 {{</div>}}
 
-This is my twentieth year of teaching, and all of them have been here in Manville. This year my courses include Algebra II and Trigonometry, AP Calculus AB, Probability & Statistics, and Intro to Programming. The latter two are in the first semester only and become College Prep Math and Intro to Web Development in the second one. I'm also the advisor for the school's Esports program. I have a degree in Computer Science from TCNJ and I’m certified in NJ to teach computer science and math.
+This is my twentieth year of teaching, and all of them have been here in Manville. This year my courses include Algebra II and Trigonometry, AP Calculus AB, Probability & Statistics, and Intro to Programming. The latter two are in the first semester only and become College Prep Math and Intro to Web Development in the second half of the year. I'm also the advisor for the school's Esports program. I have a degree in Computer Science from TCNJ and I’m certified in NJ to teach computer science and math.
 
 I’m interested in most things related to computers, and if you ever need to distract me from doing my job ask me something about video games.
 

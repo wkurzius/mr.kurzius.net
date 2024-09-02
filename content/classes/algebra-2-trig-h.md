@@ -43,6 +43,3 @@ This course will explore analyzing equations and inequalities, graphing linear r
 - Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and tests 50% of your marking period grade.
 - Quizzes will happen after every two or three sections, with major tests once a marking period.
 - Late work will receive only partial credit.
-
-## Miscellaneous
-I will be teaching out of the book _enVision Algebra 2_, but the majority of your homework and assignments will be in IXL, so you won't have to carry around a copy of the textbook.

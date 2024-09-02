@@ -45,13 +45,16 @@ The AP exam takes place on **Monday, May 12 at 8 a.m.** The exam is 3 hours and 
 - Quizzes will happen after every two or three sections, with major tests once a marking period.
 - Late work will receive only partial credit.
 
-## Miscellaneous
+## Text and Resources
 We will use the book _Calculus for AP (2nd ed.)_ as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc) course. I suggest reviewing the latter prior to any new chapter.
 
-You will have access to TI-84 Plus calculators in class, and an emulator of the same is on your Chromebooks. Purchasing your own is not a bad idea if you have the means, but *not* required in any way shape or form. I still have a TI-89 from my freshman year of college over 20 years ago, so it’s worth considering if you anticipate using it after this course.
+And here are the related College Board resources.
+- [College Board's Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)
+- [Additional exam information](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment)
+
+## Calculators
+You are allowed a calculator on the AP exam, so you we provide one during class and for the exam. We use TI-84 Plus calculators, and an emulator of the same is on your Chromebooks. Purchasing your own is not a bad idea if you have the means, but *not* required in any way shape or form. I still have a TI-89 from my freshman year of college over 20 years ago, so it’s worth considering if you anticipate using it after this course.
 
 If you intend to purchase a calculator and take the AP exam, see [this list of acceptable calculators from College Board](https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies#list). You want calculators with an asterisk after their name.
 
-## Further Reading
-- [College Board's Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)
-- [Additional exam information](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment)
+

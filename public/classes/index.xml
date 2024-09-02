@@ -2,58 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classes on Mr. Kurzius</title>
-    <link>http://localhost:1313/classes/</link>
+    <link>https://mr.kurzius.net/classes/</link>
     <description>Recent content in Classes on Mr. Kurzius</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/classes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mr.kurzius.net/classes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algebra II and Trigonometry Honors</title>
-      <link>http://localhost:1313/classes/algebra-2-trig-h/</link>
+      <link>https://mr.kurzius.net/classes/algebra-2-trig-h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/classes/algebra-2-trig-h/</guid>
+      <guid>https://mr.kurzius.net/classes/algebra-2-trig-h/</guid>
       <description>Algebra II and Trigonometry Honors&#xD;#&#xD;2024–2025&#xA;Course Description&#xD;#&#xD;This course will explore analyzing equations and inequalities, graphing linear relations and functions, solving systems of linear equations and inequalities, polynomials and radical expressions, quadratic functions and inequalities, polynomial functions, rational expressions, and exponential and logarithmic functions. This specific Algebra II pathway will emphasize trigonometry. Honors courses provide a deeper and more extensive depth of content.&#xA;Units of Study&#xD;#&#xD;1 Functions and Inequalities Mostly a review of function notation, parent functions, their transformations and various other Algebra I topics.</description>
     </item>
     <item>
       <title>AP Calculus AB</title>
-      <link>http://localhost:1313/classes/calculus/</link>
+      <link>https://mr.kurzius.net/classes/calculus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/classes/calculus/</guid>
+      <guid>https://mr.kurzius.net/classes/calculus/</guid>
       <description>AP Calculus AB&#xD;#&#xD;2024–2025&#xA;Course Description&#xD;#&#xD;Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You&amp;rsquo;ll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions.&#xA;AP Exam&#xD;#&#xD;The AP exam takes place on Monday, May 12 at 8 a.</description>
     </item>
     <item>
-      <title>College Prep Math</title>
-      <link>http://localhost:1313/classes/college-prep-math/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/classes/college-prep-math/</guid>
-      <description>College Prep Math&#xD;#&#xD;2024–2025&#xA;Course Description&#xD;#&#xD;This course is designed to help students improve their problem-solving skills through exposure to qualitative and quantitative reasoning. Topics will be taken from arithmetic, algebra, and geometry, in an effort to strengthen the basic repertoire of skills and processes, which should be a part of a student&amp;rsquo;s background before entering college or the workforce. Areas of study may also include preparation for college entrance exams.</description>
-    </item>
-    <item>
       <title>Intro to Programming</title>
-      <link>http://localhost:1313/classes/intro-to-programming/</link>
+      <link>https://mr.kurzius.net/classes/intro-to-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/classes/intro-to-programming/</guid>
+      <guid>https://mr.kurzius.net/classes/intro-to-programming/</guid>
       <description>Intro to Programming&#xD;#&#xD;2024–2025&#xA;Course Description&#xD;#&#xD;A computer is basically lightning trapped inside a rock and programming is telling the lighting what it should do. This one-semester course is for those with an interest in computer programming, whether it’s a career goal or just curiosity. It covers storing values in variables, using functions to manipulate those variables, and controlling the flow of those functions with repetition and conditionals.</description>
     </item>
     <item>
-      <title>Intro to Web Development</title>
-      <link>http://localhost:1313/classes/intro-to-web-dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/classes/intro-to-web-dev/</guid>
-      <description>Intro to Web Development&#xD;#&#xD;2022–2023&#xA;Course Description&#xD;#&#xD;Anyone who’s anyone has their own website, and this is where you can make yours. This one-semester course focuses on the front-end of web development, or the stuff that everyone sees. This includes structure with Hypertext Markup Language (HTML), style with Cascading Style Sheets (CSS) and will have students begin to build a portfolio of work for future employment.&#xA;Units of Study&#xD;#&#xD;HTML, CSS and Forms Learn how to define the structure of a webpage with HTML and then style it with CSS.</description>
-    </item>
-    <item>
       <title>Probability &amp; Statistics</title>
-      <link>http://localhost:1313/classes/prob-and-stats/</link>
+      <link>https://mr.kurzius.net/classes/prob-and-stats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/classes/prob-and-stats/</guid>
+      <guid>https://mr.kurzius.net/classes/prob-and-stats/</guid>
       <description>Probability &amp;amp; Statistics&#xD;#&#xD;2024–2025&#xA;Course Description&#xD;#&#xD;This course will consist of a broad coverage of topics in applied statistics and probability, which will give students the ability to make more informed decisions based on analysis of quantitative data. Everyday, the world is inundated with charts and graphs, by data, by polls, and by statements and claims made by people wanting to sell things or convince people of something.</description>
     </item>
     <item>
       <title>Summer Work</title>
-      <link>http://localhost:1313/classes/summer-work/</link>
+      <link>https://mr.kurzius.net/classes/summer-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/classes/summer-work/</guid>
+      <guid>https://mr.kurzius.net/classes/summer-work/</guid>
       <description>&#xD;Summer Work 2024&#xD;#&#xD;The work below is recommended, but not required.&#xA;AP Calculus and Algebra II&#xD;#&#xD;Work through the appropriate Get Ready course on Khan Academy. Each has a Course Challenge that will tell you where you need to focus.&#xA;Get ready for AP Calculus Get ready for Algebra 2 </description>
     </item>
   </channel>
