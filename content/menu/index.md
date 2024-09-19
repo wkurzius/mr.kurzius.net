@@ -19,9 +19,6 @@ bookSearchExclude: true
 - [Probability & Statistics]({{<relref "classes/prob-and-stats">}})
 <!-- TODO Calc book update-->
 
-**Clubs**
-- Esports
-
 <!--
 **Links**
 - [Canvas](https://manville.instructure.com/)
