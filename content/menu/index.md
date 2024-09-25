@@ -17,13 +17,10 @@ bookSearchExclude: true
 <!--- [Intro to Web Development]({{/*<relref "classes/intro-to-web-dev">*/}})-->
 - Intro to Web Development
 - [Probability & Statistics]({{<relref "classes/prob-and-stats">}})
-<!-- TODO Calc book update-->
 
-<!--
 **Links**
-- [Canvas](https://manville.instructure.com/)
-- [Valorem](https://www.mhsyearbook.com)
--->
+- [Course Notes](https://wkurzius.github.io/textbook-notes/)
+- [Mrs. Kita's Notes](https://wkurzius.github.io/kita-notes/)
 
 <!--
 [{{<fa fab fa-github-square fa-lg>}}](https://www.github.com/wkurzius)
