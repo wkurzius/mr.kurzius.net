@@ -4,23 +4,23 @@ title: "Home"
 
 # Welcome
 
-## Contact
+## Contact and Extra Help
 
-You can email me at wkurzius@manvillesd.org, leave a voicemail at extension 7077 or find me in the building.
+You can email me at <wkurzius@manvillesd.org>, leave a voicemail at extension 7077 or find me in the building. You can also stop by for extra help Tuesdays through Thursdays before school in room 31. I'm usually in the building by 7:20.
 
 ### Schedule for Semester 1, 2024–25
 
-| Per. | Class                                                                 |   Room    |
-| :--: | --------------------------------------------------------------------- | :-------: |
-|  1   | -                                                                     |     -     |
-|  2   | [AP Calculus]({{<relref "classes/calculus">}})                        |    31     |
-|  3   | [Probability & Statistics]({{<relref "classes/prob-and-stats">}})                                              |     8     |
-|  4   | Duty                                                                  | Gym Steps |
-|  5   | [Intro to Programming]({{<relref "classes/intro-to-programming">}})   |    31     |
-|  6   | [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}}) |    31     |
-|  7L  | -                                                                     |     -     |
-|  8   | [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}}) |    31     |
-|  9   | Duty                                                                  |  Library  |
+| Per.  | Class                                                                 |   Room    |
+| :---: | --------------------------------------------------------------------- | :-------: |
+|   1   | -                                                                     |     -     |
+|   2   | [AP Calculus]({{<relref "classes/calculus">}})                        |    31     |
+|   3   | [Probability & Statistics]({{<relref "classes/prob-and-stats">}})     |     8     |
+|   4   | Duty                                                                  | Gym Steps |
+|   5   | [Intro to Programming]({{<relref "classes/intro-to-programming">}})   |    31     |
+|   6   | [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}}) |    31     |
+|  7L   | -                                                                     |     -     |
+|   8   | [Algebra II and Trig Honors]({{<relref "classes/algebra-2-trig-h">}}) |    31     |
+|   9   | Duty                                                                  |  Library  |
 
 ## About
 
